@@ -1,0 +1,712 @@
+business_id,categories.0,city,latitude,longitude,name,stars
+5XejqzaFmtkZMstJS5Iy-w,Vegan,Phoenix,33.4803014,-112.0805864,D'Lish Cafe,4
+WUiDaFQRZ8wKYGLvmjFjAw,Buffets,Charlotte,35.306173,-80.752672,China Buffet,3.5
+K8dYoXbGDWJr_vSlVwDN1A,Buffets,Mississauga,43.6137775,-79.6618675,Garam Masala,2.5
+KhWl4Mwhm_Oqq0zIIz-0wQ,Buffets,Las Vegas,36.117506,-115.188844,Carnival World & Seafood Buffet,2.5
+ceVWEkif38SMGNcBR55PNA,Buffets,Henderson,36.0151363,-115.1184733,Tay-Yo Sushi Seafood Buffet,2
+jf_h_Y8iNaduXJvpgLRPng,Sports Bars,Chandler,33.2763316444,-111.790289394,Native Grill & Wings,3
+LCb2moBNkcBto_32rmZJ5A,Buffets,Toronto,43.7012899,-79.3972257,Echo Sushi,4
+YQFcxE9UXrKc-QuTUu7twQ,Sports Bars,Scottsdale,33.4977693,-111.9264149,Loco Patron,3.5
+CF2abR1isMzLfRPzjTvIkg,Vegan,Cleveland,41.4606693,-81.7720292,Ali Baba Restaurant,4.5
+9GA2gmLV4NX2oJkuz6fdcA,Sports Bars,Pittsburgh,40.4407028,-79.9567901,Garage Door Saloon,3
+4XGjbI2Ggi-kdgt9eZR83w,Buffets,Monona,43.046421,-89.352063,World Buffet,2.5
+nM9NwHXy3EadihjJTG2i5w,Vegan,Las Vegas,36.1007774746,-115.101814503,Pancho's Vegan Tacos,4.5
+sVqV9lzvx98kWU39Fn4c6w,Buffets,Pineville,35.086754,-80.8810249,Sky Asian Bistro,3.5
+S4qUsi44l5D9BbUCkhwQEA,Buffets,Chandler,33.31923,-111.925813,New India Gate,4.5
+1LSdIQQVvzzyDyiYPxztkg,Vegan,Henderson,36.0051261,-115.1127292,Vegenation,4.5
+50LSp1WnwMA3PMXXvXDj0Q,Vegan,Toronto,43.754171,-79.3494929,Pizzaiolo,2
+O5jWRmilHqaW54ChJh1oFg,Buffets,Mesa,33.4300004,-111.8720821,Peter Piper Pizza,2.5
+w737ZnuyX-k0_0J_t0vkmQ,Buffets,Toronto,43.6687916161,-79.3910880741,The Courtyard Cafe,2.5
+wm7Y03pllyJroPocxef3Ig,Vegan,Cuyahoga Falls,41.1483721,-81.5083945,Planet Sub,3
+m-ZqJFz9jJqyBA9Wsp_3KA,Sports Bars,Strongsville,41.3064882,-81.8358767,Panini's Bar & Grill,2.5
+ym5FOqL6tGbgynzwKMHZuw,Sports Bars,Las Vegas,36.0708818595,-115.243270866,Crab Corner,3.5
+dwAPMrdLwSn1KCsJzz_oLA,Sports Bars,Gastonia,35.225924,-81.133374,Hickory Tavern,3
+Rd5H5-3KbF0IwXSmHzHLdw,Sports Bars,Champaign,40.117699,-88.24061,Derailed 57 Bar,4
+88_7allgDYlxedC9jP1j6w,Sports Bars,Willoughby,41.6063748,-81.4379406,Applebee's Neighborhood Grill & Bar,2
+J3pAkjiicmJzXRIEDZInEA,Buffets,Laval,45.556989,-73.724304,Panda Peng,3.5
+2sx52lDoiEtef7xgPCaoBw,Vegan,Las Vegas,36.1672853944,-115.139310447,VegeNation,4.5
+MSVXxvCk--EuiOhWnRJTwg,Buffets,North Las Vegas,36.2392191,-115.1768961,Little Dumpling Asian Buffet,3.5
+_rgsXTR4PehGyLg_8tPD0Q,Vegan,North York,43.7643146,-79.4119686,Pizzaiolo,3
+QMPAOhASYDu4GYx5trTdCg,Vegan,Vaughan,43.8488651,-79.4607097,COBS Bread,5
+A7IQT6RYVSWkvEAbiLCdtQ,Buffets,Toronto,43.7356008358,-79.6047169852,Desi Spice,4.5
+8Zqh2jwtncA3N4fWEMTvZQ,Vegan,Phoenix,33.5763327,-112.065512,Scramble A Breakfast Joint,4
+UL3n_yKPA93XlnUgB_YqgQ,Buffets,Chandler,33.3416423,-111.8590556,Jeepney Bistro,3
+rL-hprXkcvfYSL9kWBFglQ,Sports Bars,Goodyear,33.4526143969,-112.393865552,Austin's Restaurant & Bar,3.5
+5NfGZR9cL_qA0nVwEkwGnw,Sports Bars,Cleveland,41.3770487,-81.7837102,Rookies,3.5
+Khrvl0l9aYG_XyVJft7CVg,Vegan,Toronto,43.7069835,-79.3956515,B.good,2.5
+zPcF4fI18gSp42G17oHmmg,Buffets,Surprise,33.655788,-112.3740267,China City Super Buffet,2.5
+mFirTXxoXRloGtrxQLAvbQ,Buffets,Chandler,33.33563,-111.854277,Yummy Buffet,3
+bVoc7AIPSWAAJBA2JLPxvQ,Sports Bars,Las Vegas,36.1596606,-115.2204265,Good Timez Billiards,4
+MJoHqF2VIKhBuMzpRnwrZA,Buffets,Laveen,33.3774668,-112.1698546,Peter Piper Pizza,2.5
+0A4wL1DwQILnrRHE2Vd4xA,Buffets,Longueuil,45.491491,-73.4766821,Buffet Chinois Fu Lam,2.5
+O3tlWsT37H1JtLzje2Wmbg,Buffets,North Olmsted,41.419077,-81.920427,Flavors of India,3.5
+l2Gfm3CA20iCBCBt_GNdDA,Sports Bars,Gilbert,33.2932612431,-111.789033633,Jimmy's of Chicago,3.5
+C14bjKs2rJhRDnKu7ZSSIg,Buffets,Phoenix,33.487608,-112.082516,Hibachi Grill & Supreme Buffet,2.5
+v5MjMhbdEn2fSCtvmXdgZQ,Vegan,Cleveland,41.547328,-81.593708,Betty's Bomb Ass Burgers,4
+pFQaji0idkrzv5J-qTQ82Q,Buffets,Las Vegas,36.155011,-115.082821,Golden Corral,3
+pPnRNzIhVLlQz9xAzuzDVg,Sports Bars,Avondale,33.460434,-112.3365477,Beverage Barbers,3.5
+htgL0zTIAekQpaWVBQcCWA,Vegan,Phoenix,33.4577555527,-112.067231017,Aside of Heart,4
+2GjI7LMmVBt0ZCC8HV4c6Q,Buffets,Tempe,33.3492229,-111.9569501,Souper Salad,3
+w1s-nOkqgo__sPZAZO9fRQ,Sports Bars,Bethel Park,40.3365784,-80.0240867,Level 20 Sports Bar Restaurant,3
+2GtIC6u4hVneccWfTlOxHQ,Buffets,Phoenix,33.3039011,-111.9784087,Hong Kong Gourmet Buffet,3
+mXjdBZNTF9pj-A9SKVihEw,Buffets,Tuscola,39.7916293,-88.2858974,Chinatown Chinese Restaurant,3
+Jp7DWno_5zAYtrpEkc0ylw,Vegan,Fort Mill,35.0777216,-80.934358,Eat Well,5
+RbmJ99C36yMOZYHKd-__dw,Sports Bars,Medina,41.154737,-81.862763,Romeo's OT,3.5
+AdB7a8eo7uK_Fq-aX6_l8g,Sports Bars,Phoenix,33.6094380925,-112.066687793,Ammaccapane's Restaurant & Sports Bar,4
+5k8HPQwFI47DXp58DPNl0Q,Sports Bars,Lakewood,41.4844574,-81.8211168,Eddy & Iggy's,3.5
+epR6riXzEtGRmao3gB6yiw,Buffets,Peoria,33.5765602,-112.2550472,Peter Piper Pizza,3
+kHpXJ2vciumu2KhNHg0hYA,Sports Bars,Phoenix,33.4484654,-112.0712574,Majerle's Sports Grill,3.5
+m546-3A38pu4hJNlHTkjYg,Sports Bars,Las Vegas,36.169249,-115.139933,Red,2.5
+84DjKzaR26vphu9fNI9nKg,Sports Bars,Henderson,36.0557009599,-115.043451889,Sierra Gold,3
+_OHueDLGKKhKcclI6tyRAA,Sports Bars,Charlotte,35.079684,-80.828743,Yellow Rose At Touchstone,4
+N92Pbr2ygKDLkjmr-4BAPw,Sports Bars,Ambridge,40.5913083,-80.2302494,Bridgetown Taphouse,4.5
+FrXqoFcQqh0UYCvHQTfu-w,Buffets,Phoenix,33.508282,-112.048136,Fuji Buffet,2.5
+VT5zZ-3RAkEYdlGF4gHuag,Buffets,Montréal,45.5152754,-73.5747548,Maison June Rose,3
+bqHMynNRsak8UYoO_a2gVg,Buffets,Concord,35.441451,-80.607065,Golden Corral,2.5
+oIsGEgWtz6aUVSLZvvcowA,Buffets,Toronto,43.7383346416,-79.5661560886,New Kwality Refreshments,4
+IhZe5wnt49PDyVhfHz8sQQ,Sports Bars,Scottsdale,33.4806016262,-111.928046878,Max Sports Grille,3
+5nWfU-qheLL-JzwYgHe_cQ,Sports Bars,Phoenix,33.546583,-112.0469306,Gallagher's Sports Grill,3
+5g5iV8w6SK9KHtcbhwGirg,Sports Bars,Mesa,33.3832251,-111.6837464,Old Chicago,3
+38KvDTPLbEwSNNX4f-33Ew,Sports Bars,Matthews,35.117787,-80.720017,Kristophers Bar & Restaurant,3.5
+JS8MpdVJ8-grSVNObYXnbA,Buffets,Vaughan,43.8146209,-79.5531824,Mandarin Restaurant - Vaughan,3.5
+cLsE6jJmByJnWisWv8QH_A,Buffets,Dollard-Des-Ormeaux,45.4843127,-73.7956505,Buffet Chinois Fu Lam,2
+JCUbpTWUrRMjtu-NZsRyVw,Vegan,Montréal,45.4974339,-73.623109,La Panthère Verte,4
+4Bgt3kf4_aST9T5SBwW8Vw,Sports Bars,Toronto,43.6465403,-79.406724,Hoops,3
+rXskMt3Y_Bs1PiGKN3N3sg,Sports Bars,Mesa,33.3837447,-111.7431843,Fat Willy's,2.5
+UtyW9cHs9Z8vIEt8I9aIeA,Sports Bars,Cleveland,41.4985517,-81.687095,City Tap,3.5
+DGK2scJteV6vyvJ2xeOYag,Sports Bars,Middleburg Heights,41.372573,-81.831286,Brew Garden,2.5
+UWP0VG-pxGMtkNnpBTQmVg,Vegan,Toronto,43.655252,-79.456726,The Thai Cuisine,3.5
+MVIthKWqwkQz0dai7LkVzQ,Vegan,Cleveland Heights,41.5099593143,-81.5801372801,Tommy's Restaurant,4
+TQ5uHmIZmcXBBYOR8pvH-Q,Buffets,Scarborough,43.7368256,-79.2486972,Happy Panda Buffet,2.5
+lZZLmG1ANLq2Yb3KuVA4NA,Buffets,Las Vegas,36.1376670589,-115.164659092,Circus Buffet,2
+fBcD8X5rFz5ozn23dabn8g,Sports Bars,Aurora,43.9706861773,-79.4869372621,Tina's Grill,4
+uo7nq-4J7A80a0t2a-55JQ,Sports Bars,Las Vegas,36.110606,-115.20743,Scoundrels Pub,3
+1NyHpXJqSLHnvDCOW0nJDg,Vegan,Toronto,43.6478918,-79.3900614,Pizzaiolo,3
+AJVS93SEUPzn63m2ogYNwQ,Sports Bars,Brampton,43.681235,-79.7153446,Shoeless Joe's Sports Grill - Brampton,2.5
+jGZRh1xFsy14fec3IG6-Hg,Sports Bars,Las Vegas,36.146289,-115.2438882,Kopper Keg West,4
+7JSOssAyZ83aYgohoTUc8w,Buffets,Charlotte,35.2283622,-80.8427789,Pizza Up,4.5
+qQTBFGWEhmgxY8zrDBcU9A,Buffets,Northfield,41.313518,-81.525408,Golden Corral,1
+e5Qw3r7mkwPLcdDzZzTeew,Sports Bars,Las Vegas,36.1064325,-115.3143315,Lahaina Grill,3.5
+ZKJcKRG6fQitU7q_Eq04hg,Buffets,Glendale,33.6377979,-112.168226,NY Seafood Buffet,2
+n8cyI4aFVz-y52ywrxG47Q,Sports Bars,Charlotte,35.2269273,-80.8403808,Buckhead Saloon,3
+Kpmy4Pld2FbJixlJtEnP4w,Sports Bars,Glendale,33.6400811308,-112.201252918,SJ's Sports Grill,3.5
+htzEunw0vAJRdHS-vJnJdQ,Buffets,Toronto,43.6573478,-79.3843539,Le Commensal Fine Vegetarian Cuisine,3
+hTZSfBGXMeNq0_1_6jdVAQ,Sports Bars,Mesa,33.3856881,-111.6861017,Hooters,2.5
+vVCA8deF2dlPXgZykhQfdw,Sports Bars,Matthews,35.114677,-80.721356,Finz Raw Bar and Grill,2
+1kDS1homhHy0gr5N95oGzw,Sports Bars,Phoenix,33.4953494795,-112.166159225,The Purple Turtle,3
+xhCedppPevQmpaxQqSbp7g,Buffets,Brampton,43.6910366,-79.8022699,Mandarin - Brampton West,3
+yReZS-Dql4JI9sDAhdvKGg,Sports Bars,Phoenix,33.5536187,-112.1369191,Spuds Bar & Grill,3.5
+8Fzdrfi-bsmgTlxr8pJQGg,Sports Bars,Brunswick,41.236731124,-81.8170842406,Winking Lizard,3
+EymqeP8TIUmVW8o7HXuc5A,Sports Bars,Toronto,43.6425269,-79.3753868,Harbour Sports Grille,3
+hWHXSzzu2AwgD9wbThq7zA,Buffets,Etobicoke,43.6483207,-79.5293513,I Love Sushi,3
+Nm-5ylHYI20vvK9u6-SKXw,Sports Bars,Phoenix,33.507577,-112.266463,JJ's Grill,4
+qIxHjX88MmHbh0ASNqqoJA,Sports Bars,Cave Creek,33.7662795,-111.9831601,Black Mountain Tavern & Distillery,4
+4WMaTA58s_P2YCcP6n4R2Q,Buffets,Stuttgart,48.7823206,9.1805678,Dinea,3.5
+jMArQJmtwg7wKfS7ApY2pg,Sports Bars,Toronto,43.6794721,-79.3420392,Legends Sports Lounge,2
+8KIwBsXZSGEFuzfo9uIMXw,Sports Bars,Phoenix,33.6433678,-112.1193559,Dave's Place,3.5
+aJwVO17rF28WPCWes9qCkA,Vegan,Pittsburgh,40.4699783325,-79.9612197876,Reed & Co,4.5
+Q0Qbxmp0qn0NxUns8F1uJA,Buffets,Las Vegas,36.219158,-115.280424,KFC,1.5
+9tjX_OuFofQxLTh9pky8KQ,Buffets,Las Vegas,36.15936,-115.160712,Pinoy Resto Buffet,3.5
+K4isdrdwV3GbI52Bv2Wq6g,Buffets,Phoenix,33.6391935,-112.0121148,Madras Ananda Bhavan,3.5
+LAUdAyDlUppGDjWop2ytMg,Buffets,Mississauga,43.6390024,-79.6343661,Jerusalem Restaurant,2.5
+cw0wVQxImxix2GoChgIYNQ,Buffets,Peoria,33.5650318,-112.255709,World Buffet,3
+DuS8fop8yN6Fa_hIFZJVLw,Sports Bars,Phoenix,33.6407934,-112.1178845,Applebee's,2.5
+67hgX03yotM6MUiKI99rhQ,Sports Bars,Toronto,43.6019054,-79.498597,Maple Leaf House,3
+ZBE-H_aUlicix_9vUGQPIQ,Sports Bars,Charlotte,35.344936,-80.842227,Hickory Tavern,3
+zpf-9NlOGSGGIIbJLO27eg,Vegan,Tempe,33.407984,-111.89442,Nourish,4
+Gtw-SpnhyNa0TwNETlysyw,Buffets,Tempe,33.4497753,-111.9264329,Southern Spice,3.5
+GyhXMf5LsM2b-OYH13aqkQ,Buffets,Phoenix,33.494353,-112.2348367,New China Buffet,2
+sS-DChs2ycYTjENBd1SIqQ,Vegan,Phoenix,33.5008268375,-112.074195674,Bear And The Honey Specialty Bakery,5
+u5xy3VHIry2LZ9q9Co-KLA,Buffets,Phoenix,33.6419655,-112.0996988,China Garden Restaurant,3.5
+hmXrKXhcD2n2s6fmb2wRFg,Buffets,Toronto,43.7515877876,-79.5266440138,Aldo's Restaurant Peruvian Food,4
+ygjJmeiGoO--QpTqJ_kZjA,Vegan,Madison,43.071468436399996,-89.4523766041,Flat Top Grill,3
+PMq_YOu1WHlaE0vUVll5Ew,Vegan,Montréal,45.5218599,-73.5702641,L'Gros Luxe 100% Végé,3.5
+3dk9XrtorfOJu8yX6BVYRg,Buffets,Gilbert,33.3220986,-111.6875461,YC's Mongolian Grill,4
+AFxhYWtszxGXaGGMnWZ9CA,Buffets,Brampton,43.717746681,-79.7235801816,August 8,3.5
+AzXrAHkynCzlZVKF7-1uXw,Buffets,Phoenix,33.4535069,-112.0722782,Taylor Place Cafeteria,2.5
+Tf6jy_c7aWpN-vEEKW7CcQ,Sports Bars,Homestead,40.400019,-79.9155059,Chic's Place,3.5
+pw-NzXGzwYkRfL6n2zk5IQ,Buffets,Mesa,33.3830888,-111.8026577,Souper Salad,1
+H-WYHSzXPWS9Avj0W6SRpg,Buffets,Las Vegas,36.098909,-115.175557,The Buffet at Excalibur,2.5
+swV-qO7gtWaCSWpdiwdMLw,Sports Bars,Mississauga,43.6512819251,-79.6416829526,Cities Sports Bar & Grill,4.5
+RBPk-zxoxcficyuCATvraw,Sports Bars,Lakewood,41.4845767316,-81.8210756779,The Side Quest,4
+FLMxWQO-ckCQmGZhU9OQgw,Buffets,Las Vegas,36.1178899374,-115.189394611,Carnival World Buffet,3.5
+MxiIRbKhCgT9Dz0hXg92vw,Sports Bars,Toronto,43.6733566,-79.2849546,The Fill Station & Sports Bar,3.5
+yFQCdWr_k1pTObzHPGis9Q,Vegan,Toronto,43.6575842,-79.4021919,Grasshopper Restaurant,4
+6oq1tUbRkfC7Qye2SrdxMw,Buffets,Toronto,43.6890313,-79.5851311,Tucker's Marketplace,3
+8Grq7lYVu0lHbNOjWoUKyw,Buffets,Stuttgart,48.8044,9.18975,Fossil,3
+YrLsYdVd5l-efzpW3vG8ew,Vegan,Toronto,43.6451873,-79.5225109,Freshii,3.5
+B-Xud89SnMAv68ng90BG4g,Sports Bars,Phoenix,33.4503086,-112.0034168,Pink Rhino Cabaret,2.5
+kGL6bJ4cZUKdiwyUmezgiw,Vegan,North York,43.7309565,-79.3057989,Armenian Kitchen,3.5
+U0Xkm_3QXoGmUDP7kvP-Jg,Sports Bars,Pickering,43.8356257,-79.0863738,Jack Astor's Bar & Grill,3
+EUWBT5GDxPC95w9itZ1EHw,Buffets,Las Vegas,36.1740973156,-115.145109872,Garden Court Buffet,3.5
+3PiBGFBdHFvUem4iQXwKOg,Sports Bars,Fort Mill,35.0543181019,-81.007393373,Patriot Taphouse and Grill,3
+Y_IdXaaFzRr13kai9vfqgQ,Vegan,Toronto,43.6629883529,-79.3318011357,YAYA Leslieville,3.5
+_lywz7Hllngj466MZpNDkg,Sports Bars,Gilbert,33.2667706,-111.7220739,Tailgaters Grill,2
+eJ0kWgojWvS1IunOpzyfWg,Sports Bars,Fort Mill,34.947345,-80.844563,Brew's Tavern,4
+EH194rct73A1m0XxPp4ABw,Sports Bars,Avon,41.468305,-82.015544,Rush Inn Bar & Grill,3
+i7WdEjPrZkzo7whKd-PufQ,Sports Bars,Vaughan,43.7887914815,-79.5352965183,Dave & Buster's,2.5
+89Tgq6_T1m8CQ-8l_VPcDQ,Buffets,Tempe,33.4183146,-111.933799,Pitchforks Restaurant,2.5
+PYUmLq7FkBbMyfYyHX1waQ,Buffets,Brampton,43.7016685627,-79.7115981546,Tandoori Flame,3.5
+ut6eoEAaE7WsdLFj9zueLw,Buffets,Phoenix,33.478181,-112.220155,New Great China Super Buffet,3.5
+x_SK4kvfWdCDDBmA_ErxqA,Buffets,Tempe,33.3773276,-111.9086062,Pasand,3
+MBK1Ew_P30AD6hFpKHqX6w,Buffets,West Mifflin,40.3474293,-79.9491155,China Buffet,2
+U9WSyenYX3ddh9Mjjw2NMQ,Sports Bars,Cleveland,41.3883276554,-81.8059184936,Thirst & Ten,5
+bqMEml5HIFSMo4CPfjlG0A,Vegan,Tempe,33.3947699,-111.9088938,Chill,4.5
+OrvNtbtLiQnukOQqL3jP8g,Vegan,Lasalle,45.4426192,-73.6292455,Mi & Stu,4
+6MIWAI3CX2HfGZhmWPHcDw,Sports Bars,Las Vegas,36.0162554,-115.1187329,Blue Water Restaurant & Sports Bar,3.5
+Ae5HnuMQY6IUbR3H2a8LlQ,Vegan,Pointe-Claire,45.4683817,-73.8289929,Copper Branch,4
+XC85BrIIDwxN21K462jsuA,Vegan,Toronto,43.6464176063,-79.3790951381,Kupfert & Kim,3.5
+ytX-rw4wwOgmzr1n5RuxpA,Vegan,Madison,43.075171,-89.37861,Layla's Persian Food,4
+zLC9OtK3SKAW_g6SXijr4w,Buffets,Glendale,33.5688713,-112.1520319,Chang's Chinese Buffet,3.5
+lyT7-grqNhAvll39V7kzag,Buffets,Phoenix,33.412207,-112.014327,Apollo Cafe,3
+ZzK2myEzK5aRrwOBUExLxg,Buffets,Las Vegas,36.0990311,-115.1708014,Savor the Buffet,3.5
+Zf79K5QvjpT26M9OMt55sw,Buffets,Las Vegas,36.2015702,-115.1951924,Festival Buffet,2.5
+yEWrdUczj1_9KTUJEVfIIg,Sports Bars,Avon Lake,41.5037947,-82.0524351,Tailgators Sports Bar,4
+MGCTs8GBtkTUFaCAkdDtKw,Sports Bars,Las Vegas,36.1714200272,-115.244907668,Inn Zone Rainbow,3.5
+68O06rHoYy-7IH04I2OEXg,Sports Bars,El Mirage,33.6102267,-112.3412753,Mario's Pizza,4
+DkttCY9pgiJfpPt7MrB2KA,Sports Bars,Las Vegas,36.1426633941,-115.209489092,Rendezvous Wine & Dine,3
+wcNvlrB5xSxzXex2M3UyvQ,Sports Bars,Phoenix,33.495639801,-112.003173828,Hazelwoods First Place Sports Grill,3
+OzhQsMgVIBBYWJtaVIGScg,Vegan,Toronto,43.6542746,-79.390985,Pizzaiolo,3
+FB33W3bwg3ADcIJOcLLz0w,Sports Bars,Pittsburgh,40.3653045,-80.018701,Pittsburgh Sports Bar & Grill,3.5
+hqKhAY4IJLj_7fmIpRy6Hg,Sports Bars,Gilbert,33.3541248,-111.7893508,Champions Sports Saloon,3.5
+rvnTFEq7R2ZHg0_CYbBNFw,Buffets,Las Vegas,36.118117,-115.187298,Village Seafood Buffet,3.5
+Tu2ZBTfEQGUjnpl0o38lDg,Vegan,Toronto,43.6594511649,-79.3959621186,Hot Yam!,4
+gTp2D6nicDdWjKJH8EI-sA,Buffets,Phoenix,33.5082758,-112.0372054,Souper Salad,3.5
+i3agjxn_g8U3Agev8_ys1w,Sports Bars,Phoenix,33.6104172,-112.1353272,The Rec Room Sports Grill,3.5
+UUlp5Pkpq7w5pOiX6esJ9Q,Vegan,Toronto,43.6471851,-79.3954536,Pizzaiolo,3
+lOgybcjtSymXvJWvSZk1vw,Sports Bars,Toronto,43.7345959,-79.3438572,Jack Astor's Bar & Grill,3
+pEP_b5TkKsAVyJ8X6plaiA,Sports Bars,Oakville,43.4970233484,-79.7066244907,Shoeless Joe's Restaurant & Bar,3
+vsiL3XBeoc4yh1lGWXwNdw,Vegan,Oakville,43.4440355,-79.6818327,Solasta,5
+b0Xy5VEwRNWqglfxy5Anlg,Sports Bars,Glendale,33.638365,-112.216355,Native Grill & Wings,2
+YmY9lwUzXtT9b56AWe03zQ,Buffets,Phoenix,33.392663,-112.070677,New King Wah Chinese Buffet,2.5
+fmyo8-JBOu5bjczEsLJyBA,Sports Bars,Phoenix,33.5318417,-112.0479816,16th Street Sports Bar & Grill,3.5
+GbCoZiJLPbI-7bu0awyoZQ,Vegan,Charlotte,35.1731814,-80.8400346,One Life Raw Juice Bar,4
+q91nljuSDFl0IYReyF_A3w,Vegan,Montréal,45.500677,-73.5590223,Restaurant LOV,3.5
+ZNcX99W6jwmbve8ERxVfmw,Sports Bars,Edinburgh,55.9448983,-3.1886315,Teviot Library Bar & Underground,4
+k-dDZvTeLysoJvjHI-qr9g,Buffets,Las Vegas,36.1427819,-115.1747468,Feast Buffet,3
+dFywNDTZ1AnxhaEqxlA5Ug,Buffets,Mentor,41.6746555775,-81.3125985861,Fuji Buffet & Grill,4.5
+bHMu6uRczU_Nf3vOMDRDlQ,Sports Bars,Brunswick,41.274489,-81.8365664,Manzo's Sports & Spirits,4.5
+zU63bs3Ofe8y1peOgOFJaA,Sports Bars,Phoenix,33.7978888,-112.1157954,Connolly's Sports Grill,3.5
+vede55OuMkwUNd4wnr8GqA,Buffets,Newmarket,44.0343710128,-79.4748629672,Mandarin Restaurant - Newmarket,3
+1k53JbU9dNU0NvyBYKLhNw,Buffets,Phoenix,33.5989263,-111.9814759,Souper Salad,2.5
+DeI4KqEeWy0cTdh7Wy5_RA,Vegan,Las Vegas,36.145118,-115.20472,Samosa Factory,4
+9RQznFcE6Mhslaw0WlJ3jA,Vegan,Las Vegas,36.1232761,-115.2796896,Paiz Latin & Vegan Food,4.5
+uaZYhzg1jcmTrRIeNqHISA,Buffets,Mayfield Heights,41.5197722083,-81.4679735899,Buffet House,3
+VUDwlypqw1-DTK_lfEP4jg,Buffets,Pittsburgh,40.441887,-80.07068,Panda,2.5
+KDdu9HDswaJYExaGDuzRjQ,Vegan,Las Vegas,36.2776408,-115.2870976,Vegeway,3.5
+5z1WIr7E9P2CSzyN5seeSA,Buffets,Las Vegas,36.113722,-115.169184,Sterling Brunch,4
+BNtQD_aXWOA_Ip99grNMLw,Sports Bars,Matthews,35.116499,-80.719595,Beantown Tavern,3
+h_g5HV6Fw2rinZ3xqFwygw,Buffets,Las Vegas,36.0418680739,-115.184348299,Seasons Buffet,3.5
+QWY6JqB49pgPJIKIw2TJqg,Buffets,Tuscola,39.7862354,-88.268223,Amishland Red Barn Buffet,2.5
+--q7kSBRb0vWC8lSkXFByA,Sports Bars,Las Vegas,36.0166929,-115.173115,Double Play Sports Bar,4
+kzwiQ54fopeTgGEIkgJ2dQ,Sports Bars,Las Vegas,36.0686032269,-115.259810224,PT's,3.5
+NS9PS1PkQMnhBANb3NFxNQ,Sports Bars,Elyria,41.4001203,-82.1052247,Buffalo Wild Wings,3.5
+WGfalBzV-u0gXKb6149ZCQ,Vegan,Tempe,33.4213508,-111.9247139,Blue Nile Cafe,4
+p_xOFDTjobDoe4kAM7Ws7g,Sports Bars,Charlotte,35.1709542,-80.8493812,Montford Billiards,4
+5oVIydJLDwm9chThPU6zIA,Vegan,Toronto,43.7087974,-79.3987963,Kale,3.5
+LTpv1IAniQ8QICHrIEwntQ,Sports Bars,Verona,40.5274519,-79.8107101,Somma Pizza Restaurant & Sports Bar,3.5
+GM7eH4niVTz64O3cNjlaMA,Sports Bars,Brunswick,41.2437483,-81.8405784,Sidelines Sports Bar & Grill,3
+CXFARDJEpOreI9Xyxzl8Yw,Buffets,Phoenix,33.5239687,-112.0911673,Great China Super Buffet,2.5
+tnd0GWjSEntWbG6wpLu61g,Vegan,Parma Heights,41.3774932,-81.7835915,Cuisine of India,3.5
+JQ5If23aqFhV6uuMRwFlwA,Vegan,Toronto,43.6437815874,-79.4029973833,Coco Rice Thai Cuisine,3.5
+K2dYG5yOd1i4keB9yMIYuw,Sports Bars,Phoenix,33.4656605,-111.9716122,Castaways,3.5
+QMB3hmb_Yv6Vk-HLiM2cdA,Vegan,Toronto,43.7194176,-79.3010177,The Veggie Thali,4.5
+djAWtGq2IxKaxMIMw-P58A,Buffets,Las Vegas,36.1337103,-115.0850568,Feast Buffet,3
+rqBkUtbARYXVW2vQr6zVTw,Buffets,Newbury,41.451084137,-81.2080154419,Cherry Dining Room,3
+1qw65j15MqKqYkljH_iSyA,Buffets,South Euclid,41.5199389,-81.5182749,A Panda Buffet,3.5
+-lWLXHxSkvZ7wSs4V9vmwQ,Buffets,Chandler,33.33563,-111.854277,City Buffet,2
+1XEFVSf5zdBFHRScvmU_zQ,Vegan,Pittsburgh,40.4604323,-79.9252567,Juice Up 412,5
+YgBQEX8dB27FdYj7PaPhPw,Sports Bars,Madison,43.052916,-89.435789,Gates & Brovi,3.5
+WBlYp-nmLiBLp7VjP1FJFg,Buffets,Henderson,36.0722723705,-115.07962751,The Original Las Vegas Buffet,2
+pajul2jeKg4tDBffmnNEDA,Buffets,Phoenix,33.487608,-112.082516,Super Moon Buffet,2.5
+h6rXCK5nXNDjvKs2975fIw,Buffets,Saint-Jean-Sur-Richelieu,45.3340400916,-73.2680921629,Le Pois Chiche,4
+ju3wDAy8lWNAgS6rgsHmNA,Sports Bars,Pittsburgh,40.4528937907,-80.1601921137,All Star Sports Bar & Grill,3.5
+KoqiR3YN3mhbyuUWYIhuIw,Sports Bars,Las Vegas,36.0565892,-115.2352479,T-Bird Lounge & Restaurant,4
+qG9eQTNdhhlBBpJ_3K-Q-w,Sports Bars,Willoughby Hills,41.5874636,-81.439506,Brindaliers Bar and Grill,4
+DW7ttoWMaI2jWN41gekbiA,Buffets,Rexdale,43.7197196,-79.5960125,Mandarin Restaurant - Rexdale,3
+Me45UUmefFD_eSN_6l3ong,Sports Bars,Toronto,43.6651903,-79.4101916,The Beer Station,3.5
+5GXKxdlJQOrmoPe0GXzJNA,Buffets,Montréal,45.5679434,-73.5526664,Jardin Tiki,2.5
+rqYOFPPrdwMYvSRpI4r3-g,Sports Bars,Phoenix,33.4788098,-111.9984213,Ice House Tavern,3.5
+KnQ5BfIeS7Y19wT5zmVsjw,Vegan,Montréal,45.524101,-73.604905,Invitation V,3.5
+QdbwZGnBWdkdN2XAG7rwLA,Sports Bars,Toronto,43.7783355713,-79.414932251,Ferg's Bar & Grill,4
+28TtvOd1npZQ-tH7Hm432w,Sports Bars,Toronto,43.6449099,-79.3833287,Casey's Bar and Grill,2.5
+quBpp-CIt-XWF_4rIsM_jQ,Sports Bars,Peoria,33.5514914,-112.2701358,Beach Club Cantina,4
+80KSWrNPjv6DGNbg3sG3MA,Sports Bars,Phoenix,33.554245,-112.10915,Daves On Northern,3.5
+PPCuGwbGA7HlhsGh8dbBsA,Buffets,Cleveland,41.5383085371,-81.4937449685,Taj India Palace,3.5
+cjN5hZuQvZqvceFgRWxcWQ,Vegan,Toronto,43.7002654,-79.4288735,Loving Hut,3
+9V2PyXye8zgPT9Kat5rN2w,Sports Bars,Matthews,35.1332245314,-80.7131516933,Tilted Kilt Pub & Eatery,2.5
+StjUke9uj6T6qB4hpyzMMA,Vegan,Toronto,43.6449781,-79.4149962,Fresh,3.5
+z42ByZ6dXpW7hkNfJw2HFQ,Sports Bars,Phoenix,33.6399009,-112.0100999,North Star Lounge & Restaurant,2.5
+NG3TF5xwiF76S0N8SZ8xuQ,Sports Bars,Montréal,45.5331,-73.606075,Bruno Sport Bar,4.5
+L0d7r2zvjIaGCaj8fxJFRA,Vegan,Pittsburgh,40.4459734242,-80.1582661486,Loving Hut,4
+sZsJooAzpKqOvDysphkqpQ,Vegan,Las Vegas,36.1721756,-115.1468294,Pop Up Pizza,4
+X_EBs3ShGJmehqzfuciEAA,Sports Bars,North Las Vegas,36.2476102,-115.1534549,Scoundrels Pub,3.5
+Y5kWrt6NnwPAKCcZlh5IuA,Sports Bars,Etobicoke,43.648177,-79.5293368,Fox & Fiddle Precinct,2.5
+94VpeM23Uxo0eFNdEh0zbA,Sports Bars,Las Vegas,36.0113639832,-115.174186707,Lobby Bar,3.5
+ZYbQgWImBuf6QzlV1t5NKw,Sports Bars,Richmond Hill,43.8862434,-79.4407174,St. Louis Bar & Grill,2.5
+H0nIjiZNBTIwrNf4_DwNLQ,Buffets,Mesa,33.3636300216,-111.876137294,BBQ House,3.5
+FW7uAWuXX7YNMHDJyotsgQ,Buffets,Gilbert,33.305135,-111.78697,Peter Piper Pizza,3.5
+k57YAz2gkeXgAYij7JIxjw,Sports Bars,Tempe,33.4128996,-111.9611749,Philly's Sports Bar & Grill,3.5
+j8yLK5Tzemj3frwdk7SUXA,Sports Bars,Gilbert,33.3364432,-111.8226311,Skip and Jan's Sports Bar,3
+Y_WNd6vSY55dti7mJoqvBA,Sports Bars,Charlotte,35.1791109,-80.8899595,Locker Room Sports Bar & Grill,4
+nWf4u0Em7BCQl6kr_d_jww,Buffets,Matthews,35.130916,-80.712255,Souper Salad,2.5
+Uz77JHl5e6zlGa-71-6_dA,Buffets,Champlain,44.9805877,-73.4606647,China Buffet,2.5
+--ujyvoQlwVoBgMYtADiLA,Sports Bars,Pittsburgh,40.323927,-79.9438113,Primanti Bros.,3.5
+eZo_WH35_ugK6kqcF0M2Ig,Sports Bars,Cleveland,41.5009949,-81.6997487,Bob Golic's Sports Bar And Grille,2
+Wdy7J_EOL2lvDKSscdQ4Pw,Sports Bars,Urbana,40.111959,-88.208652,Black Rock Pizza Co.,4
+rCtrRVf2O6nT2Nm_JpJXfA,Buffets,Mississauga,43.6258375,-79.5653794,Muddy Duck Restaurant,3.5
+lomynsQfC1dALfxyh-x_iA,Sports Bars,Las Vegas,36.166558114,-115.285441636,Pkwy Tavern,3.5
+fH7CzesCvXKE7iOBL8_KzQ,Vegan,Chandler,33.2783449,-111.7908416,Hookmeup Gourmet Sandwiches,3
+G6BwYw_0_atLPTzI1uokIA,Sports Bars,Las Vegas,36.1449407,-115.3028257,Nacho Daddy,3.5
+BaMQOhwTsid9_D3MOxYduQ,Vegan,Montréal,45.497444,-73.579924,La Panthère Verte,4
+VKmGedwOk-16D7OawNg_ng,Buffets,Las Vegas,36.1447569,-115.242249,Buffet Asia,3
+c_ZDTkfDlfzLm0a3osk1ow,Buffets,Phoenix,33.640376,-112.111654,Indian Paradise 2,3.5
+dfAWV-VltqFxkhlYu3PekA,Buffets,Pleasant Hills,40.3326499,-79.9460512,Yu's Old Town Buffet,3.5
+dD6JQo5tCNtOtauaLaT0sg,Sports Bars,Glendale,33.6663937252,-112.201813809,Oggi's,3.5
+sm5Sl7z9Kx1yXExrdGuZ7g,Buffets,Pittsburgh,40.4526444,-80.1602414,Cho Buffet,1.5
+kzltkVNV7nXJgcL4Wc_9OA,Sports Bars,Surprise,33.6405401581,-112.421991639,Rumors Sports Bar,3.5
+dYMhfzyZyklXELmYq_wfKg,Buffets,Las Vegas,36.1199282584,-115.172435045,Flavors The Buffet,3
+Lyn5sYu1rfxdmntbaOoZJg,Sports Bars,Pittsburgh,40.4471820836,-80.0211379383,Rivers Casino,3
+5z-kd3h50BnaE1Ee8GV5bg,Buffets,Phoenix,33.6268737,-112.0297844,Lim's Chinese Buffet,3
+BvrG8XMpTtlJYWhOCbnpaQ,Vegan,Phoenix,33.480771,-112.09158,Mu Shu Asian Grill,4
+ZEW2tHdcRuwKZv8oXY4rCA,Vegan,Charlotte,35.1506051,-80.8286331,Living Kitchen,4.5
+YM06JQ_xiSPrghs9EMNttg,Sports Bars,Oakville,43.46479,-79.7101023,Sixth Line,4
+4P8tx5_STTPOjkB_gejr5Q,Sports Bars,Bradford,44.114236572,-79.5645960405,Village Inn,1.5
+MPbzeBX4f98CgK0ih1rLVw,Sports Bars,Pittsburgh,40.4867643947,-79.9268399793,Bulldog Pub,4.5
+kDqgPRL75KG4lBxJsYUJlw,Vegan,Pittsburgh,40.4325712791,-79.8936523497,El Burro,3.5
+VCYhWAkuxl2Irj_vgnraYw,Buffets,Tempe,33.4502544,-111.9255745,Taj Mahal Indian Cuisine,3.5
+UpbTdzW9OoVrnbpHyxnMWg,Buffets,Toronto,43.7060318,-79.3985138,Mandarin Restaurant - Toronto,3.5
+UQMQDq8yuxnyQyBIoKhzoQ,Buffets,Cleveland,41.511437,-81.602844,Indian Flame Restaurant,3.5
+DitTJbjhzFQK8nDOparlQw,Vegan,Phoenix,33.5266690929,-112.262004815,Livin' Lite Arizona,4
+aDGp0NnKuVH3_pOCfZwqsA,Vegan,Toronto,43.649044767,-79.3775595471,Pizzaiolo,3
+N5nB7bt89WYvobTGIP1vPA,Vegan,Cleveland,41.5241022,-81.6486168,Empress Taytu Ethiopian Restaurant,4
+uiiwoQJRz0QMEsZwS5SsBg,Sports Bars,Newmarket,44.0617316,-79.4826943,Jack Astor's Bar & Grill,3.5
+XJbTtaUgBCXZhhWt1_rYqA,Buffets,Chandler,33.351583,-111.842255,Pacific Seafood Buffet,3.5
+3ByGQOVgds2YEu6kzl-XEQ,Sports Bars,Phoenix,33.4952976,-112.2360764,Rib Shop,2.5
+cWZgqO5H-qYuCz-BjDUB7Q,Sports Bars,Charlotte,35.3101756,-80.7494433,Bad Dog American Pub,2.5
+2RCB307uNxQekVQEr4IrKQ,Sports Bars,Las Vegas,36.109588,-115.17254,The Playing Field Lounge,3
+JRo3APL5f4-TEkuI-SoDcA,Sports Bars,Phoenix,33.330921838,-111.983517949,Zipps Sports Grill,2.5
+cEFnJrDaz7BLO0xOCJlF6A,Buffets,Montréal,45.507439,-73.560607,Jardin De Jade Poon Kai Restaurant,2
+5k34OJo3BsEaoyMsW86eZg,Sports Bars,Tempe,33.4243368,-111.9394223,Chronic Cantina,3.5
+B7lWxgPmJPJJ7Mz2OL6aAg,Sports Bars,Mesa,33.3636242,-111.8736054,Native Grill & Wings,3
+lfdiEgr4xbbn6waskIZj4A,Sports Bars,Cleveland,41.3873549683,-81.763255549,Pounders Bar & Grill,4
+C23tFHkw0QTsYTR7KBP5GQ,Vegan,Stuttgart,48.7740254317,9.1449310876,Lässig,4
+GWm6Da7qib16APWNXcvmSw,Vegan,Las Vegas,36.1672546478,-115.285847986,Bite Vegan Bakery,4.5
+S85ekQU0V1uf03U55Bbp5g,Sports Bars,Brampton,43.7149683,-79.7994883,Tee Jay's Sports Grill,3
+c9eUmcKIfgDaF-WUv4ILVw,Sports Bars,Toronto,43.64363,-79.38858,The Pint,3
+kCjvO_BZ2_KohSR5eJl2GA,Sports Bars,Las Vegas,36.1045609,-115.2073876,Cozy's Tavern,4
+tOL8YMFVyPiXkSYv06AZsQ,Sports Bars,Toronto,43.6687087,-79.3861682,Burgs,2.5
+_K2_Yf_ltfhuJ2JGCOs85g,Buffets,Las Vegas,36.1137276,-115.1523206,S7 Buffet,2.5
+BaEwrpEQyWDOOuAzu0q6Zw,Buffets,Concord,35.372799,-80.7271223,Ichiban Buffet Sushi & Hibachi,3
+wERcL1KznuTgfltSKQt_jg,Sports Bars,Phoenix,33.5230997097,-112.049281852,Zipps Sports Grill,2.5
+M9GUGic6bNm3qlECIwCzBw,Vegan,Stuttgart,48.7698653,9.1793505,Super Jami,5
+K7lWdNUhCbcnEvI0NhGewg,Buffets,Las Vegas,36.109538,-115.17617,Wicked Spoon,3.5
+Xy8R4AnLP3LxwFIYoPfhJg,Sports Bars,Las Vegas,36.0714188287,-115.278783627,PT's Ranch,3.5
+GatUelEiMO2tShY16y6Zrg,Sports Bars,Garfield Heights,41.4094736,-81.6169708,Applebee's Neighborhood Grill & Bar,3
+GjT8ZitwOVdP2ttJIam-ug,Vegan,Phoenix,33.449498,-112.0744168,Vegan House,4.5
+iq50qr2p5d68f2TO3OA9BA,Buffets,Phoenix,33.5959571,-112.0391851,E-san Sab Sab Thai Cuisine,3.5
+mfBvrKeDYnwgHgWvmDMNgg,Sports Bars,Toronto,43.7440019,-79.3007845,The Loaded Dog,3
+dkrWH6vG9SqzLRzC3rB10A,Sports Bars,Montréal,45.4960173893,-73.570489853,1909 Taverne Moderne,3
+IebHMTPzqTISOaEvCYbZIA,Sports Bars,Mississauga,43.5906062,-79.6360765,Tilted Kilt Pub & Eatery,2
+8hDnvOEgCkD6kizhPVz8iw,Vegan,Cave Creek,33.833628,-111.938652,Chef Sara's Raw Vegan Academy & Cafe,4
+lxpGgLcJAGAlbaC1PnJ0xQ,Sports Bars,Pineville,35.0857058,-80.8789517,Applebee's Neighborhood Grill & Bar,2.5
+Y07qIurPKiUJDnTZWxZN2A,Buffets,Las Vegas,36.115137,-115.195433,Bistro Buffet,3
+YE1x0KHgcyVc0BNDG861tA,Buffets,Pickering,43.8498943,-79.0706519,Mandarin Restaurant - Pickering,3.5
+chZq-ekREv79vqqqOmghzA,Sports Bars,Stuttgart,48.7927454285,9.2281852003,Palm Beach,3
+UwIsqUFQBDMNofkTrAP_pw,Buffets,Chandler,33.3048103,-111.9270642,Chennai Fusion Grill,3.5
+elj15ZOSk7EvHxy21V_jNw,Vegan,Montréal,45.504067,-73.558527,Invitation V,4
+oRy013Ovh_RtEouO-rGX2A,Vegan,Toronto,43.6551156,-79.4000182,Veggie D'Light,4.5
+aLJrD7AwySfSvYx9fNvJRg,Buffets,Sun City,33.603332,-112.294278,New China Super Buffet,1.5
+PsRvJffbQdaHhK9xHxB06A,Buffets,Las Vegas,36.1461136,-115.1564612,Aztec Inn,3
+MUQS2XkrFl8QxCUHgSIzLA,Buffets,Las Vegas,36.0996904,-115.1195912,Dessy B's Steak House,3.5
+i_V36U612XnJ5SJAE1OPWw,Vegan,Toronto,43.6633496,-79.4185625,Apiecalypse Now!,4.5
+Vq-eRmIwiMgu2qZQquj21w,Sports Bars,Verona,43.001914,-89.5296788,Draft House Bar & Restaurant,3.5
+NgvsZvgNdi_qgQHG5p2_ng,Buffets,Avondale,33.451818,-112.340391,Pacific Seafood Super Buffet,2
+tN-UYJf-mAbwGQMdFbbjiw,Sports Bars,Toronto,43.6699119,-79.3867623,Burgs,3
+lawYwEXAE-Sq2nf6co7aBg,Sports Bars,Ambridge,40.5797271,-80.2210054,Hark's Place,5
+U9rNC1lQrKTNO4OfOYJ_6A,Sports Bars,Berea,41.3712756,-81.8678552,The Upper Deck Sports Cafe,3.5
+nyLHFPxEoMfzrs3g7hAsVg,Sports Bars,Markham,43.8745675,-79.2570478,Southside Restaurant and Bar,3
+1fnaD5AuE6g3XfG8e1zNnQ,Vegan,Toronto,43.7047653,-79.4919518,Mama's Tofu,4.5
+AlninJFRoy8h3jwxddJeZQ,Buffets,Fort McDowell,33.58193,-111.6808257,Red Rock Buffet,2.5
+9VU91bqavqmmi3gstjemzA,Buffets,Gibsonia,40.6079763,-79.9480111,Great China Buffet & Grill,4.5
+_5izyrn1qV0uyec65UsdIA,Sports Bars,Toronto,43.63837,-79.4184338,LOCAL Public Eatery,4
+ogVW7IF0oC-YEQA_fdSPLQ,Vegan,Phoenix,33.4587814,-112.0722749,Tediberto's,3.5
+hw1g0S9HtNKSH4dJl8-oPw,Buffets,Mesa,33.3905956,-111.7876826,U-Like World Buffet,2
+ZKqbygpsDNOacLvoK2T2tQ,Sports Bars,Middleton,43.1407496,-89.5211137,Game Time Sports Bar and Grill,4
+9Z_srra9YNfwhyDGxVI_Tg,Buffets,Sun City,33.6000118,-112.2825659,Furr's Buffet,4
+VRAsO8JBRJxesILjiOjNAQ,Sports Bars,Las Vegas,36.1032073,-115.2794948,Bootleg Benny's,4
+6usQ3JgXOv6x6JN7g8Fv1w,Buffets,Boulder City,36.009963,-114.785082,Hacienda Buffet,2.5
+Y9RPOP5Bk3eRIWFNYkEahQ,Vegan,Montréal,45.5166927,-73.5738633,Sophie Sucrée,4.5
+pA3ltu4j31uatVu0_Gu1PQ,Buffets,Champaign,40.1431418,-88.2547899,Crazy Buffet,4
+rYk9IqQ9uRc22Fg2sxWnIg,Buffets,Fountain Hills,33.5821241,-111.716244,DC Bar & Grill,4
+2weQS-RnoOBhb1KsHKyoSQ,Buffets,Las Vegas,36.1268872232,-115.165590048,The Buffet,3.5
+V9st1APIh04cP1WUfnvxmA,Sports Bars,Henderson,36.0786771,-114.967027,Chimera Golf Club,3.5
+xFCJqbDQu8YbHQoD1mODfg,Buffets,Avondale,33.451818,-112.340391,Four Seasons Buffet,3
+JlPRg2JqUww_fShe1QGdYQ,Sports Bars,Edinburgh,55.9340783,-3.2445577,Chessers Inn,3
+VXVrYjLRqNpQY-ogN9ztmQ,Vegan,Lakewood,41.485757,-81.815983,Cleveland Vegan,4.5
+Ee3bI8VXPU2PGE_vJg3Pqg,Sports Bars,Tempe,33.4078922,-111.9539189,Tailgate Sports Bar & Grill,3.5
+eUuKXhloFVHdQsLdodcLbw,Vegan,Las Vegas,36.072381,-115.100413,Parsley Modern Mediterranean,4
+zi6PYilrVf3f4b-BUhWgdQ,Buffets,Fitchburg,43.0252681,-89.4139259,Yes Buffet,2
+WGTMT5He7vSEgUebaK6GVQ,Vegan,Montréal,45.5212201,-73.5623253,Spirite Lounge,4.5
+Slpd4sRuICx1cy2Etb-7ig,Buffets,Glendale,33.6379008,-112.1674758,Hibachi Grill & Supreme Buffet,2.5
+Jevr21XEkatzB8PzKXGVPA,Buffets,Lasalle,45.432696,-73.6341246,Buffet Chinois Mandarin,3.5
+pPQnqbEETYTo3hKT4_4HDg,Buffets,Medina,41.1698995068,-81.8600339442,Royal Buffet & Grille,2.5
+QJfnq_F3qb3raMCZa48_3A,Sports Bars,Tempe,33.4128996,-111.9611749,Hail Mary's On Priest,3
+XqPMOwrJ0xjphyNQYcoPLg,Vegan,Toronto,43.6518251,-79.4033426,Buddha's Vegetarian Foods,4
+XGteHUmQZNLDKqnZkVBqZQ,Vegan,Mississauga,43.6577115,-79.6394732,Veggie Paradise,4.5
+hjDCsuzS_yU60FFffqpt-w,Buffets,Phoenix,33.57791,-112.1190062,Hibachi Grill & Supreme Buffet,2.5
+8cPMjIwTnrVm3F2wLGiZag,Vegan,Montréal,45.5055629,-73.555343,Café Veritas,4
+pTvL6Upfp91J1ryrCZpzgg,Buffets,Madison,43.0548686,-89.3968494,Jade Garden,3
+jw16yMOp1f3rryUMeQL48Q,Vegan,Toronto,43.7238092,-79.4162808,Da Venezia Gourmet Pizza,4
+16gKsvCihzW4-IoxMide3A,Vegan,Toronto,43.6600320074,-79.4174679509,The Bickford Flexitarian,4
+5V9i2FuhQ3o8ynYwbubmQg,Sports Bars,Charlotte,35.2202707977,-80.9470832348,Uptown Bar &  Lounge,2.5
+Vu2C9npNSaHLYM7lvkKJJQ,Sports Bars,Toronto,43.6892420388,-79.5844583052,Jack Astor's Bar & Grill,3.5
+WP02YOmOLNAyb54Qt2zARQ,Sports Bars,Willoughby,41.6477314,-81.3868743,Bumpers Bar & Grill,3.5
+udGrKu1eJ_Qdd6O1PeUrmg,Sports Bars,Las Vegas,36.2160084,-115.2426839,PT's,3
+pgK0mBQLth1C3DubvmWH3w,Sports Bars,Pittsburgh,40.43709,-79.922803,Silky's Sports Bar & Grill,3.5
+kKCwp86xU9XKRnAALQDhrw,Vegan,Urbana,40.106704,-88.225188,The Red Herring Vegetarian Restaurant,4.5
+d_Wm9CpzIo_0T-XLfq1UcA,Sports Bars,Champaign,40.1111448,-88.2391289,The Hub,3.5
+uSANDilamc1QSiCinFSKYw,Buffets,Madison,43.057758331,-89.5138889074,World Buffet,3
+ACipqGe2moRp4MwANsxw-A,Sports Bars,Charlotte,35.2911356,-80.735185,Picasso's Sports Cafe,3.5
+fY8L-7jxFhwp8z6onq7XmA,Sports Bars,Chesterland,41.5217669,-81.338848,Buckstop Bar & Grille,4
+nDtHvnjD2tkbTUyLKXSE3Q,Sports Bars,Glendale,33.579136,-112.151927,Stingers Sports Bar,3
+6QjNLbwVBSsRlPD24hL5Ww,Sports Bars,Mesa,33.4159,-111.793652,Stacy's Smoke House BBQ,3
+jk_zmdPaU0C-3ICT0GDzIQ,Vegan,Montréal,45.5039621,-73.5723398,Falafel Avenue,4.5
+nl_gkvVXtsIlhGE0sP0qFw,Buffets,Tempe,33.3481953214,-111.96524565,Crazy Buffet,2.5
+GZw7RqzN-ZPwTL0mQcC4uw,Sports Bars,Pittsburgh,40.544234,-80.030422,Knuckleheads Bar,4
+nmHFrf9J7DiRDQriGPQEXw,Sports Bars,Tempe,33.3774105,-111.9401151,The Woodshed,3.5
+LvNQkpggm72kJUTzO0juWQ,Vegan,Las Vegas,36.0600377576,-115.278234801,The Protein Source,4
+z0NImASe6DNDREiIt8NF-Q,Sports Bars,Mesa,33.3878164326,-111.786679197,Native Grill & Wings,2.5
+3wJ4kJsJhayyfJ30HsS04g,Buffets,Chandler,33.3350307,-111.877439,Matka Indian Cuisine,3
+eJYvivWUp4Hdc9Tc8SaZPA,Vegan,Madison,43.0748002,-89.3952993,Buraka Restaurant,4
+ZL0TTcdLwL4tj9rzAnj6ZQ,Vegan,Toronto,43.678381,-79.346957,Pulp Kitchen,2.5
+Ou8pYS24azDWG0ru_vUcqg,Buffets,Las Vegas,36.1162194,-115.1745719,Lago Buffet,2.5
+ujHiaprwCQ5ewziu0Vi9rw,Buffets,Las Vegas,36.11322,-115.17689,The Buffet at Bellagio,3.5
+0NgePUfXd2TG0kWgsQRq0A,Buffets,Tempe,33.3496395266,-111.949183578,YC's Mongolian Grill,4
+uU1VdmqO6UTCiRgbhQrbsg,Vegan,Montréal,45.5182854,-73.5712009,Nil Bleu,4
+ynlfZ7_8rNjT0w5TNAMimA,Buffets,Chandler,33.3476332,-111.8606228,King Buffet,2.5
+ErHMVkPstNyefb3ZU_z1Cw,Vegan,Phoenix,33.479992,-112.076718,zpizza,3.5
+FwSiazvHT_BuGYGz5dMt0w,Buffets,Mesa,33.3881313,-111.8538436,Zuni Grill,4
+u7E9Qa6CcqbvOy1eTYtc7w,Vegan,Toronto,43.6414118932,-79.3777328454,Kupfert & Kim,3
+-YWr1wm_NaAlgEf9TZzsMQ,Buffets,Las Vegas,36.152620400000004,-115.207511,Jumbo Super Buffet,2
+StzNuzqg25fLRWIzvpwaJA,Sports Bars,Phoenix,33.5027148538,-112.064611763,Phx Sports Grill,5
+kY1ojmCX5HIiCM9CFKpklw,Vegan,Avondale,33.4334649,-112.3278161,Mi Vegana Madre,5
+CsSpPV3haN5fXiqLNN-RlQ,Vegan,Montréal,45.5236727,-73.5818623,Café Venosa,4
+nWSPZ4ZoOFI0Vlzl-f7duw,Sports Bars,Richmond Hill,43.8904255181,-79.4397313893,Tailgate Taphouse,4.5
+7EZ4Eu7YJ1ltRCC5jXFJrQ,Buffets,Las Vegas,36.124829,-115.171991,The Buffet At TI,2.5
+psGo0e_HYSQrytkPFVE6Ng,Sports Bars,Chandler,33.334536,-111.846555,The Reef,3
+lPSi3I0sN1QjJhncZucBtA,Sports Bars,Chateauguay,45.3617736,-73.746622,Ye Olde Orchard Pub & Grill,3.5
+4S9GptaPGzoyAkSCL7tjOw,Sports Bars,Böblingen,48.6860256,9.0165826,EhrBar,4.5
+1o03kXj4zA-_SvN1HfqNyg,Vegan,Litchfield Park,33.5097792,-112.3393487,Loving Hut Vegan Cuisine,4.5
+8V1a1VW3L_xc6ZrjOfZBEg,Sports Bars,Concord,35.416913,-80.676471,Buffalo Wild Wings,3
+Nk88s1VuIfl3O9SFZnonCg,Vegan,Las Vegas,36.0679611785,-115.178036402,Nēche Restaurant & Ultra Lounge,3
+lk-UF5MrrRt-nKCN7et60A,Buffets,Phoenix,33.390943,-112.074797,Peter Piper Pizza,2.5
+q3TNTTKnZfJ6CSJAoMgiMw,Sports Bars,Scottsdale,33.6762908,-111.9231242,Grayhawk Beer Co,3.5
+aRfbdokghfAtpvos_GBk2Q,Buffets,Mesa,33.3800389,-111.8070834,Crazy Buffet,3
+yB3v-Ad3ILCdw8Wpe4h3WQ,Sports Bars,Glendale,33.5823067,-112.1688451,Kirks Korner,4
+RiPhiTDvmhqlF9BYWv8mtA,Buffets,Edinburgh,55.9471939,-3.1854832,Red Fort,4
+aEs7Qle2Ah49dwaf3QNU1w,Sports Bars,Phoenix,33.4737513072,-111.986316621,Dirty Drummer,4
+-01XupAWZEXbdNbxNg5mEg,Sports Bars,Scottsdale,33.6392052827,-111.881924769,18 Degrees Neighborhood Grill,3
+m3tNor-GTl-aAST5AmEqYA,Buffets,Phoenix,33.4662093811,-112.218629402,Lin's Grand Buffet,2.5
+VFGptZijOhBaLoSPzw3guw,Vegan,Toronto,43.6433413771,-79.4235370849,Hello 123,2.5
+Pube7dRYQoptIn0OA0GpdQ,Sports Bars,Toronto,43.6500732,-79.3748906,St. Louis Bar & Grill,3.5
+qdowgW3twwdqwZCx-IETLQ,Sports Bars,Stuttgart,48.7724,9.16523,Carambolage,2.5
+GqWBT6OcQ9FXTyQ3eegpZg,Vegan,Phoenix,33.5095,-112.063826,That's a Wrap,4
+Q9is4jcGh5FT_1sAKilu6g,Vegan,Phoenix,33.4801566146,-111.993708911,Jewel's Bakery and Cafe,4
+IMLC177opWHCmgdUIYYjaw,Sports Bars,Ajax,43.831413,-79.031848,Top Shelf Bar & Grill,1.5
+Eob0L5ShC4ySVNPn_UeUKw,Sports Bars,Cleveland,41.4516361,-81.8085141,West Park Village Tavern,3.5
+AZ_iSVHQdBiCTnMolLTg3Q,Buffets,Pittsburgh,40.4586356,-79.9174452,China Buffet,2
+yLVW9xxnX8se7IFCDppdkw,Sports Bars,Montréal,45.509833,-73.5525347,Café de' Mercanti,5
+un0IeQuLvXoftV9IQ_V5Nw,Buffets,Markham,43.8561002,-79.3370188,Kings Kitchen Buffet,1
+gypAbV45wzZ8qP_LmW443A,Buffets,Parma,41.4061513,-81.6971897,Hometown Buffet,2
+bjzFOyHG4Ux1CPCIk-b_5A,Sports Bars,Charlotte,35.247284,-80.805606,NoDa 101,4
+4l737P4y2TD-FflyTNrDyQ,Sports Bars,Chandler,33.3359145373,-111.859159917,Gallagher's,3
+W4CG8pZC9d9PjysCrzUOug,Vegan,Madison,43.0753917,-89.3989853,Dandelion Food Cart,5
+bXHbLuxyBZemyB0j7GJbTA,Sports Bars,Champaign,40.112114,-88.241292,Boneyard Bar & Bbq,4
+ZmSxCLxpWlACXZuXzmQI_A,Sports Bars,Parma,41.38245,-81.7398674,Johnny Malloy's Sports Pub,2
+5FIOXmUE3qMviX9GafGH-Q,Vegan,Tempe,33.453786902,-111.927165985,Green New American Vegetarian,4.5
+wDRdIF_5IL6iCao-G8hVHQ,Sports Bars,Toronto,43.6852919679,-79.3155437708,The Groove Bar & Grill,4
+U7rDYiB8jyjtb0qYPRIWaw,Buffets,Mesa,33.3903866,-111.6819183,Souper Salad,2.5
+qS6J-sxyrP45d-8LbIhWKg,Sports Bars,Las Vegas,36.1816339821,-115.099468609,El Rincon de Los Remedios,3.5
+muD5-YKII_qOTRpbRWuOHA,Sports Bars,Las Vegas,36.114831631,-115.206738078,PT's,3.5
+Gda4SfsyvOKC0cZkXEjTzg,Buffets,Phoenix,33.4944809,-112.1736724,Chinese Gourmet Buffet,2
+ToWf7vv3RBbDkz1RARzujQ,Sports Bars,Strongsville,41.3218384,-81.8583296,Slim and Chubby's,3.5
+FEDJzSlA34EJ8ypqMWgVew,Sports Bars,Cornelius,35.4808386,-80.8784689,Mac's Speed Shop,3.5
+DHJiH3C7qQyzY_I3VwD-Qw,Buffets,Tempe,33.3931044,-111.9149789,Sweet Tomatoes Field Kitchen,2.5
+IDrozLCx_dQ2UWjY9VAHUA,Vegan,Montréal,45.487707,-73.5864223,Green Café,3.5
+sE05glLpll9KPv3dcO79GQ,Buffets,Las Vegas,36.1710681,-115.1431353,Paradise Buffet & Cafe Restaurant,2.5
+j0nu1XeKHSHUhtSwxPseuA,Vegan,Woodmere,41.4623487,-81.4744736,Vegan Sweet Tooth,4.5
+O45cN_WzbJfO5JhF4nPZvA,Sports Bars,Phoenix,33.4354656,-112.0071714,All Stars Sports Bar,2
+R1jJQi2yR44D_2ileqr8kA,Vegan,Charlotte,35.2090265771,-80.8611555105,Living Kitchen,4.5
+NRb1eKJWHYnwzZ3eWEWOkg,Buffets,Chandler,33.220295,-111.867508,Suns Buffet,3.5
+dg4EMyM1feTEWfLPSbunrg,Buffets,Chandler,33.3048389,-111.9490143,Taj Indian Cuisine & Banquet Hall,3
+iB9By3dVS6BydSUiDHxLyw,Sports Bars,Phoenix,33.5054706,-112.0370088,Half Moon Sports Grill,3
+frnkDjjlTLdUqwTcBbLUEA,Buffets,Richmond Hill,43.8455679,-79.3810254,Crave,2.5
+74wRr6PP6lbaL1YzUcYGAA,Buffets,Pittsburgh,40.4408628,-79.9581821,Golden Palace Buffet,3
+mGjyaCZUVvFhO8nolbDdnQ,Buffets,Las Vegas,36.1142773,-115.1709763,Big Kitchen Buffet,3
+nCwAk9FHldJzop3N88SdaA,Sports Bars,Henderson,36.0128199,-114.99373,PT's,3
+wM8QNs7uSyDqMJKjBYFPCQ,Buffets,Mascouche,45.7306442686,-73.6743764798,Buffet Des Continents,3.5
+MTQot6uazWb2SV3WABa20Q,Sports Bars,Cleveland,41.4977732702,-81.6935171559,Lincoln Tap House,3
+Wg91oE233AzNieNryRJYYg,Sports Bars,Las Vegas,36.1293298,-115.1362782,Applebee's Neighborhood Grill & Bar,3
+p3JG2He3UptGY0eqc2YX8g,Sports Bars,Phoenix,33.4800325,-112.0283324,Wild Game Grill,4.5
+EGJb8zZPlAfRzj9rg2KwqQ,Buffets,Eastlake,41.64197,-81.449399,China Buffet,3
+l6ChWz5fwhkvuEmThuFl5w,Vegan,Madison,43.0819293,-89.36579,Mother Fool's Coffeehouse,3.5
+JME1sO6i5sOu-Dw_I_PD8Q,Sports Bars,Phoenix,33.4462892,-112.0686882,Sliders American Grill,2
+azy4-i93S7S7uN3pYGMddw,Sports Bars,Scottsdale,33.478946,-111.9105257,Prankster's Too,3.5
+kNcgxuKZNekiCmXoVkJT7w,Sports Bars,Ajax,43.8296376,-79.0312725,The Black Bear Pub & Grill,4
+t0T_4MM4EUHbCzBTF11FHA,Vegan,Lakewood,41.477192,-81.774351,Thai Kitchen,4
+J7duBvni2oJVVGQxX0fJ0Q,Buffets,Phoenix,33.5511368,-112.0565797,Happy Buffet,3.5
+3BGzRYh6GQbZz3LGAGb-sQ,Sports Bars,Phoenix,33.3788938,-112.0109661,Gallagher's,2.5
+rwLm3556i3xw2n3ND0cpdg,Vegan,Montréal,45.4948656,-73.6374224,Thanjai,4
+4xfYFf__ushFQKncEdSZ0g,Sports Bars,Mesa,33.3772725,-111.859089,Applebee's Neighborhood Grill & Bar,3
+3dK3PIfmu09FFGi21QYPaA,Sports Bars,Charlotte,35.101934,-80.991177,Hickory Tavern,3
+mt9mrG8wALTzD3YYGim3mQ,Sports Bars,Pittsburgh,40.4404255,-80.0032706,City Works - Pittsburgh,3
+1INcoGMv9-Dk-S6Au0TMgQ,Sports Bars,Cornelius,35.480186,-80.887519,Lake Town Tavern,4
+FA_D4vDxRyI-hC0SZJnjnA,Sports Bars,Charlotte,35.2251811,-80.842261,BlackFinn American Saloon,3.5
+LR0qF0FEVsCOhYWUOiH26A,Buffets,Las Vegas,36.107069,-115.17764,The Buffet at ARIA,3
+yiUbGDvEpYZd1Z8S1SyNvQ,Buffets,Montréal,45.493037,-73.579658,Restaurant Odaki,3
+LFfYe-hh1NKFtUKV3LUgfg,Buffets,Scottsdale,33.6222859533,-111.904171575,Indian Paradise,4
+OoOpg6jWz4lxjlAvgHT8wQ,Vegan,Montréal,45.5171696,-73.5790995,Sushi Momo,4
+h7hgUiuQ9vSczhKdV5YgGw,Sports Bars,Madison,43.0678133,-89.3994368,Buckingham's Bar & Grill,3
+PRBSiB7ytkLKHVZoBYPxpQ,Buffets,Las Vegas,36.1262983,-115.1376254,Kusina Ni Lorraine,3.5
+5D3cAYturwbEqnj52b1Tmw,Sports Bars,Las Vegas,36.0922493,-115.208489,PT's,3.5
+AB1a6QImpe88asJrE3lxpQ,Vegan,Fort Mill,35.027,-80.963454,Brixx Wood Fired Pizza,3.5
+Mnf10SaW1-8O3zVF_S16Dg,Sports Bars,Las Vegas,36.102099,-115.174634,The Sporting House Bar & Grill,3
+TSGBM2z5BTeJvYQAznz8Fg,Buffets,Chandler,33.2767552948,-111.792198881,Jogoya Sushi Seafood Buffet,3.5
+-9YyInW1wapzdNZrhQJ9dg,Buffets,Las Vegas,36.1362575,-115.1512526,Fresh Buffet,2.5
+GSa-EQowk8I-TtvgBjHgTw,Sports Bars,Mentor-on-the-Lake,41.706876,-81.358486,Tequila Jaxx,2
+xIjZkeTFyiAaVu_wDhwicg,Vegan,Montréal,45.5330984,-73.5752325,Esquina,5
+X9sDrd6Uia0uQFFKwwQcJg,Buffets,Gilbert,33.381279,-111.724162,India Gate,3.5
+vjLgZg0DH_9xwcujFNb0pA,Buffets,Las Vegas,36.099494,-115.2083645,BJ's Buffet,1.5
+NRAwvyYffhIG0xxfAL-l2g,Sports Bars,Fountain Hills,33.6038152,-111.7157056,All American Sports Grill,3.5
+O75Lh99ZO6HCIqVVR-p9wg,Vegan,Madison,43.072396,-89.387893,Red,4
+OoKNxTMu5YAaNgQKQ4SrzA,Vegan,Tempe,33.4259738171,-111.940346,Desert Roots Kitchen,4.5
+3akSOcI-uzHOwGQeZD3NHg,Sports Bars,Mesa,33.435479,-111.824074,Native Grill & Wings,3.5
+-UfNsMlVYFAZZypRnxCQiA,Vegan,Stuttgart,48.8059823267,9.1561832507,Körle und Adam,4.5
+z8Cw9KBnDj3X40H9fXElYw,Buffets,Streetsboro,41.2434926,-81.3562765,New Peking Express,3
+kWbCj-QDpzV2MieHMrEICw,Buffets,Phoenix,33.5026862,-112.0821589,South China Buffet,2.5
+sHTXbmvqUE9FudTuJMPXMw,Sports Bars,Cornelius,35.480255,-80.886973,Tropicana Sports Bar,3.5
+7_582HYkh5Ki9n5aWK8dmQ,Buffets,Mesa,33.3969224245,-111.787811816,Cicis,2
+e9N2DC9GngaV7BzauL-mWA,Vegan,Montreal,45.516736,-73.5830781,Crudessence,4
+qNDqXNl38BYYn2JWcXw4OQ,Sports Bars,Mesa,33.390849,-111.682547,Black Angus Steakhouse,3
+8QQxXEuuPjrhMw_T6kuCig,Vegan,Stuttgart,48.7725721,9.1792878000000009,XOND,3
+-tffAj4Opoadxdm6DkvPpg,Sports Bars,Toronto,43.6432435254,-79.5340849604,Beer n Wings Sport Bar & Grill,2.5
+UddEGVfbnmXxK6t2mXyicQ,Buffets,Phoenix,33.6855035583,-112.082909766,Deer Valley Airport Restaurant,3
+rnvsL0oFZpzpO61GXqBF6g,Buffets,Phoenix,33.5951283,-112.0396342,Reign Of Thai,4.5
+GrtS9Rw8dWY3XIoCjRbESQ,Sports Bars,Phoenix,33.540212,-112.0648402,Dodeys Central,4
+dVbZ0xbkwl8BWiqaDS0t-w,Sports Bars,Las Vegas,36.0580582,-115.2783952,Putter's Bar & Grill,3.5
+l8k4gOEkfoLKq0mPVWHWGg,Sports Bars,Phoenix,33.49413,-111.977756,Arcadia Tavern,3.5
+_rFhH-eSg6heHC9m0t-cBg,Sports Bars,Cleveland,41.4184626,-81.7269014,Characters Sports Bar and Grill,4
+87iG_3WiNP_2WLxYm53WeA,Sports Bars,Coraopolis,40.5193424,-80.1666945,DB's American Cafe,2
+TkXmhC7ZDA5H2tebIXH2_Q,Buffets,Charlotte,35.204845,-80.721379,Ichiban Buffet,3
+7BIbvCkI7AXQMVC1-DHpCA,Buffets,Tempe,33.333854,-111.9123807,Priya Indian Cuisine,3
+ZbadYAh7T0SDiV9_Lofr_g,Sports Bars,Charlotte,35.202046,-80.8437,Sidekicks Sports & Spirits,5
+ALgH4S65heUffUjcBiNJ0Q,Sports Bars,Scottsdale,33.6721048,-111.8904868,West Addison,3
+iFmW1jw2nNPuwQEFfmpOnw,Buffets,Saint-Leonard,45.5957128736,-73.5706408078,Buffet la Stanza,1.5
+FtJ9CAJYU2WMxWBgQmExJw,Sports Bars,Mississauga,43.6382852365,-79.6928818931,Shoeless Joe's Sports Grill - Courtneypark,3.5
+GhMFE71TCNrbMWdoWQxE-g,Sports Bars,Waunakee,43.192193,-89.453988,Gold Nugget Saloon,4
+y8KBzM9iE9v8q0FeAPn0yQ,Sports Bars,Cleveland,41.4639398,-81.789181,Woody's Bar & Grille,3
+tYYJYqbw1zasFUCqrkawKQ,Buffets,Scottsdale,33.454427,-111.885598,Eagles Buffet,3.5
+FxxXlegMzUymnCdx4jmnWQ,Buffets,Scottsdale,33.4656197,-111.9284182,Sakura Grill & Supreme Buffet,3
+qv88BZd88Va7ZuMOkzbUUQ,Sports Bars,Phoenix,33.4804263,-111.9996671,Ice House Tavern,4.5
+-hec2e0Kj9yIVfOQKoFG6Q,Buffets,North Olmsted,41.41943,-81.917283,Jumbo II Chinese Food,2
+W97YBvhkOOel-HkBBfQbYw,Buffets,Cleveland,41.4562949,-81.6459971,Seven Roses,3.5
+prFx0Kg92PfPkoU8OY4KxA,Buffets,Scottsdale,33.6202166,-111.8962689,Nirvana Indian Cuisine,4.5
+_mkObKf2FTg4pRcCFZBf4w,Buffets,Scarborough,43.7364511,-79.249621,Dragon Handroll Buffet,1.5
+I2gsUx1W5-gQzBFbhIxcRQ,Sports Bars,Scottsdale,33.569242117,-111.890274058,Tavern Grille Scottsdale,4
+9-KJZHOncSPnCcnvxF5QCw,Sports Bars,Glendale,33.6547999735,-112.187961635,Heroes Pub & Grub,4
+_yKeTKNvXaBduAkRIS84Aw,Buffets,Cleveland,41.4998728873,-81.6922279042,Kafeteria,4
+gJFltdjG_NbbNctwRmS3Hg,Sports Bars,Mayfield Heights,41.5208412,-81.4373856,Fox & Hound,2.5
+-BrMNg4MbpftOUTjOMVp9g,Buffets,Scottsdale,33.58302,-111.8928209,Mint Indian Cuisine,3.5
+VUADGMPLJoWqhHb1G4LIcA,Vegan,Toronto,43.6492987,-79.422447,Veghed,5
+YktNvzWjfkGB_PujtdYPaA,Sports Bars,Fairlawn,41.1310232,-81.6136301,Ray's Place,3.5
+5fg-RNWNbqyGn8b8wqe4QQ,Buffets,Vaughan,43.78738,-79.471494,168 Sushi Asian Buffet,3.5
+uhQoPguihcZTo8yp5o2ohw,Buffets,Las Vegas,36.1691108,-115.2913032,St. Tropez International Buffet,2.5
+0fdi2Y8RLbnLP9Cvwq7utw,Buffets,Las Vegas,36.175,-115.136389,Lucky 7s Buffet,2.5
+D3E-h3moTngDIoNHeHAjOg,Buffets,Phoenix,33.5671647,-112.1351368,Blue Pacific Super Buffet,3
+sYSlKRCWmVeQr1hA6-WUzw,Vegan,Toronto,43.7074975862,-79.3955600336,Fresh on Eglinton,3.5
+hMBfOXR1v2jjRUzpm1sUKA,Sports Bars,McFarland,43.024109,-89.3045269,5100 Bar & Grill,3
+azxeH9W14hzFnZyuOm8JdQ,Sports Bars,Las Vegas,36.0858850095,-115.137501955,Chophouse & Brewery,3
+1qwkbN3wu3AGDxMTXVz2gA,Sports Bars,Scottsdale,33.5410494492,-111.876859696,Topgolf,4
+PMsqD6wHCfxdrZkGXIepvA,Buffets,Etobicoke,43.621045152,-79.52306148,Mandarin Restaurant - Queensway,3.5
+PM9_-eotWntTW7tLBCsScw,Buffets,Mesa,33.3919247,-111.8625414,Souper Salad,3.5
+Ku3ME-bW3zINVJiP9zkOEg,Vegan,Toronto,43.6480704,-79.3898385,Superfood Eateries,4.5
+QP2c6C_xk6nSiLgaVuq2hQ,Buffets,Las Vegas,36.1976942,-115.2470842,World Buffet,1.5
+OJaODLWh3YtZPK5V5L_CnQ,Vegan,Chandler,33.3059385,-111.9471779,24 Carrots Juice Bar & Cafe,4
+J6z4W7v727W1pX4-cRnMYw,Buffets,Phoenix,33.495304,-112.092068,China House Buffet,2
+h2qoDqeVdTDnJRGQGqsi4g,Vegan,Etobicoke,43.5999294,-79.507932,Bombay On the Lake,3.5
+GJX_96Dldb0JZLUlHBgAcA,Vegan,Toronto,43.6529437677,-79.3559842475,FUEL+,4
+dSfXDo6AB5i76nj2QgoS8Q,Sports Bars,Richmond Hill,43.8961561,-79.4028155,Yogi's Bar and Grill,4
+dnKli38dNKkFy9HiV8w53A,Buffets,Pickering,43.8279946,-79.0976787,Great Wall Buffet,2
+2JV0xGXsszojof2BuEt_hw,Sports Bars,Phoenix,33.6536099,-112.0637743,Gallagher's,3
+8cObcZxjNiJc1L4Oaka0fQ,Vegan,Brossard,45.4397180579,-73.4426284817,Copper Branch,3.5
+r7JM2s-kkcFf47H7yl0PUw,Buffets,Edinburgh,55.9434891,-3.1842563,Ann Purna,4
+wjZ12shpUWAy4Boy0G5z1g,Buffets,Las Vegas,36.0993783,-115.1710285,Island Buffet,1.5
+tJyXQ8xziSqK7dtB0Md3mw,Sports Bars,Tempe,33.4221689,-111.944507,Boston's Restaurant & Sports Bar,3
+RiO6Jcjya1z-9gAQzNU3LA,Sports Bars,Berea,41.3691253,-81.8527615,Mike's Bar & Grille,4
+_8mBVtt6yhkS0YtT1FGBNg,Vegan,Las Vegas,36.191832,-115.3053232,Nekter Juice Bar,3.5
+GM3_MoAgPcyE1ozWxjy-XA,Sports Bars,Toronto,43.7633609,-79.291298,Kornerstones,3.5
+Kgn95ai9ruzslGuNtAnGPg,Sports Bars,Scottsdale,33.4903252383,-111.926479004,Smokehaus,3.5
+ireHTdAh1d4lmGiieMfV_A,Sports Bars,Charlotte,35.0883021,-80.8632461,Fox & Hound,2.5
+ypgo_xEb2dghMT-jlJAo3g,Buffets,Phoenix,33.4950665,-112.1687924,New China Buffet,3
+7VmvrOkMuarMX_pbrN9bLA,Vegan,Avondale,33.4641425,-112.2730569,WaBa Grill,3.5
+iA8Ve2sZKN5Vz3mYKrtCaQ,Vegan,Las Vegas,36.1424875212,-115.142594814,Komol Restaurant,4
+JQYkVnUzS5vgFxZgCuW7ag,Buffets,Phoenix,33.4951554,-112.0822129,Thai E-San,4.5
+Yevhl8bTwdJuu_LWKv-4Fw,Vegan,Woodmere,41.463018,-81.477888,Paladar Latin Kitchen & Rum Bar,4
+VzFpiWA0gu9jOtRIUNXB2A,Buffets,Brossard,45.4620291,-73.467741,Buffet des Continents,3
+JWhqCvKTs5vLwIrhrbgx7Q,Sports Bars,Las Vegas,36.2760519,-115.1204204,PT's,3
+xzGUXMDKa2xw_TJ2n4WrNw,Sports Bars,Madison,43.1199523754,-89.3243771568,Lazy Oaf Lounge,3
+kaxBWp2iyyUmafaD2dgMJQ,Buffets,St-Jerome,45.7593269261,-74.0217049367,Buffet des Continents,3
+0k9yGNjHyXaniwK5pfe1iA,Sports Bars,Highland Heights,41.552731,-81.4583925,Mulligan's Pub and Grille,3.5
+1Lm1euBdgzxuPGjJbHTudg,Vegan,Toronto,43.6479391,-79.4003492,Grasslands,4
+Arx42aGpdfI6XRH9lnKdaQ,Vegan,Las Vegas,36.016461,-115.1171167,GlutenZero Bakery,4.5
+hh1z7gy0k3fCdVQf9hZYfg,Vegan,Charlotte,35.1415123637,-80.8759398875,VN Tofu Food To Go,3.5
+11jp1_hbr1RTDRJAesFayw,Sports Bars,North Huntingdon,40.327485,-79.716183,Norwin Bowl,4
+X-HEtlt_I8neKJdAPJFjig,Sports Bars,Mentor,41.6803807,-81.3052344,Toth's Place,3.5
+gQ93Na9yBJghX8HzH7smwQ,Buffets,Lorain,41.4182365408,-82.1990116686,China One Buffet,3
+q4TSv7LWvUYTuZxy3-Tu4Q,Sports Bars,Mesa,33.3789701,-111.878907,Drunken Tiger,4
+4sgyGcPirkelQfdaFb_oqg,Sports Bars,North York,43.7731978,-79.413657,The Lounge,3.5
+m3-DedfwGqtZPz800yY0jg,Vegan,Mississauga,43.5562233,-79.5810743,Buddha Bowls,4
+Qc_lVQyMonRhejPp3Ua5SA,Buffets,Toronto,43.8032491,-79.288433,Seoul BBQ,2.5
+o5t33JVLpZWf269AEPB95Q,Vegan,Toronto,43.652093,-79.402622,Greens Vegetarian Restaurant,3.5
+-zuJkmIjdRahT_yHED-62g,Buffets,Toronto,43.7970053926,-79.2704776265,Sushi Legend,3.5
+8nLxiZc7vr_GI6GcFhWc0g,Sports Bars,Pittsburgh,40.4583902,-79.9255146,Buffalo Blues,3
+67sq73gTdgHN0atGtIgDtA,Buffets,Phoenix,33.5823628,-112.1498845,Great Wall Buffet,2
+MQXZW_c30OdTsLcLkhjzlQ,Buffets,Las Vegas,36.147574438,-115.207608327,Peter Piper Pizza,3.5
+CaF9FC8GEBfDDbptPgkgBw,Sports Bars,Tempe,33.347355,-111.964449,Applebee's Neighborhood Grill & Bar,2.5
+yxdmX8dXk5Se9zJ4WAW1pw,Vegan,Toronto,43.6559955,-79.3928145,Vegetarian Haven,4
+V9klA6JGT6Fz2UpVP_7sBw,Buffets,Las Vegas,36.1047813604,-115.174662673,The Buffet at Monte Carlo,2.5
+mofOjB6flg-eAWOFbOkHfQ,Buffets,Champaign,40.1373032,-88.2560119,ChinaTown Buffet,2.5
+PmVxbit6HDDsEUS-j9aDfg,Sports Bars,Champaign,40.081322,-88.296709,Billy Barooz Bar & Grill,3.5
+m2xeKBhS0szlm7xfU5b8ew,Buffets,Toronto,43.6581797,-79.3815198,Buffet Palace,3
+SgoPKzmU5CjuD5ewuoJ7oQ,Vegan,Henderson,36.0551099,-115.0455774,VeggiEAT Xpress,4.5
+Dd1w7xR7Xs3bthwusgy33Q,Vegan,Mesa,33.3777544,-111.859699,Lotus Deli,4.5
+-qSmAF1bILHpcuqsQMDTgg,Sports Bars,Carnegie,40.4151524,-80.0679399,Manny's Rook Station Cafe,4
+Bh5VbI_9msk3GaD0kiKkmg,Vegan,Toronto,43.760058175,-79.412188931,Nanashake,3.5
+VS6cBZIOm1-8GjS2aGG-iQ,Buffets,Madison,43.055135,-89.497286,U-Like Asian Buffet,2.5
+mmbXj7CmjGbH-wR3j6cD0w,Buffets,Las Vegas,36.1152681022,-115.298301965,Sweet Tomatoes,3.5
+ATGZLAWudXt5hQXQ1AVGDQ,Sports Bars,Las Vegas,36.1156002,-115.3011418,SG Bar,3.5
+KSTMUvXUN4WuwhpW4jbiSg,Sports Bars,Monticello,40.0255127,-88.5734954,FieldHouse 219,4.5
+DtNxNpyxy2ctvxpg-LCS_w,Sports Bars,Charlotte,35.199529,-80.764312,Steamers Sports Pub,3.5
+xBqQzSE7XU_3cu24ygSsYw,Sports Bars,Chandler,33.2640196,-111.8580058,Native Grill & Wings,2.5
+lFxhaA5tyFxKGtLp7yEjNA,Sports Bars,Toronto,43.648569,-79.372899,Jack Astor's Bar & Grill,3
+pfyH89xsKRasjCp1j9z3vw,Buffets,Parma,41.4052183,-81.6917077,Kumo Japanese Seafood Buffet,3.5
+Gh2kkOnzieYqe5cVLtl7MA,Sports Bars,Cleveland,41.486324,-81.7055029,Tabletop Board Game Cafe,4.5
+gLTCGEGRRHfbPShd5wY80g,Buffets,Montréal,45.475994,-73.585968,Triple B Restaurant,3.5
+Fv3jcRVP8WBEdTR8E4l1hQ,Buffets,Las Vegas,36.135387,-115.159248,World's Fare Buffet,2
+m_XkXGm4BSnrtiLc1zgLTw,Sports Bars,Las Vegas,36.1439489,-115.1922769,Shiftys Crows Nest,4
+DrdhxvpwlZGhwF5vTR_QnA,Vegan,Montréal,45.46906,-73.618356,Maison India,4
+3uIXuw878fNjxZ2Li1diFg,Vegan,Toronto,43.6605669,-79.4325733,The Hogtown Vegan,4
+n98Gbks3BvpKC8qMFPMKeQ,Sports Bars,Las Vegas,36.1715475,-115.144279,Benny's Bullpen Sports Bar & Cigar Lounge,3.5
+7dlCzYnXDaubTAfvgAX6sQ,Sports Bars,Westlake,41.4604712,-81.949171,Applebee's,3
+ot_dtez-8ngRgH0h2G24Gg,Sports Bars,Verona,42.9887143,-89.5466119,Monte's Grill & Pub,3.5
+6oWlbIpFjGSXd_etc0Z00g,Sports Bars,Glendale,33.5329299,-112.2606911,Tavern+Bowl Westgate,4
+h7WwxzzjRaZoA5FWHYbLzg,Buffets,Northfield,41.3135396,-81.5255979,Golden Corral,2
+Bux3uz_RHXjYrRdNZSIKBA,Sports Bars,Markham,43.8338295,-79.3542399,i Darts Toronto,3.5
+4wqUAWQJuBVb8E-qPM6cFQ,Sports Bars,Monona,43.0701356,-89.3266264,Snicks Sportsmans Bar,4
+TrS0RnRkm1wRK0BBWmJEyQ,Sports Bars,Gastonia,35.247206,-81.174395,Jack Rabbit's Sports Bar & Grill,3.5
+jlcnzJ_0Sr2w3l7Z9HaVow,Buffets,Phoenix,33.3773472012,-111.997511275,Lin's Grand Buffet,3
+WKrCvD-CoDZnCj3nsMCrRw,Sports Bars,Las Vegas,36.013564,-115.15086,PT's,3.5
+drIFrAyZnyismS1ArZlmAg,Vegan,Phoenix,33.4949347,-112.0113581,Loving Hut,4
+d5n_zQMaVZxFKNnS-4ludA,Sports Bars,Toronto,43.642256,-79.3830636,Hoops Sports Bar & Grill,2
+sm9d8q9DJW6OVKeDlVUVKA,Buffets,Las Vegas,36.104581,-115.140343,Hazel M Wilson Dining Commons,3
+DZpUH96f1Uomk7N8FlZLjg,Vegan,Scottsdale,33.584306,-111.922392,Grabbagreen,4
+7W8Mvi5yOKjccZsIF64N_Q,Sports Bars,Surprise,33.6082331498,-112.357275917,Under Review,3.5
+Y7JOip5LLaXc007OqkCg7g,Buffets,Las Vegas,36.1442519,-115.2108408,Pacific Buffet,2.5
+s-6Wl5AmE-vtZca2zk2hxg,Sports Bars,Charlotte,35.0913271,-80.845724,Char Bar No 7,3.5
+Cilu8Dbb-tTHgEBM4-0vZA,Sports Bars,Macedonia,41.314456,-81.5204229,Winking Lizard Tavern,3.5
+6-gL3PfW1L_hAbH56LXqJQ,Sports Bars,Glendale,33.6370840151,-112.201583192,Il Primo Pizza & Wings,3.5
+f0FQ8tQDZr6Z2osI-MtWWg,Vegan,Toronto,43.6586166,-79.4422898,Fit and Sweet Bakery,4
+jZiCSq7znfzf-0Nu9FEJGg,Sports Bars,Ajax,43.8412297063,-79.0323671872,Rum Diaries,3
+gS3vjabS7Hh2IX0B4rwaoQ,Vegan,Whitby,43.8791298,-78.9421062,Safaryan,4
+9CGmq4GMEyyPTeNflnW0SQ,Buffets,Toronto,43.6458616,-79.3925945,Debu's Biryani House,4
+-Q8F0KbFIK3m3VeGXoCDEA,Buffets,Gilbert,33.329291,-111.7903,Phoenicia Cafe,4
+3T1ALFnwoOkNTSpe7Fq6XA,Sports Bars,Stow,41.165922,-81.441388,Beef 'O' Brady's,2
+e4oidJPcu__3B7RMZA85qQ,Buffets,San Tan Valley,33.1782234099,-111.585660093,Asian Buffet,3
+xYxU8kUwDm6PnWOIo0lB7Q,Sports Bars,Las Vegas,36.1100828,-115.1538714,Hard Rock Hotel's Race & Sports Book,3
+TLEO3CpoJ0R7UKHvRb8fVg,Sports Bars,Monticello,40.049686,-88.567102,Monticello Red Wheel Restaurant,3
+88jOXax58gScdaRdZZy9zQ,Sports Bars,Charlotte,35.2714959772,-80.8375149965,Candi's Cabaret,2
+yvNYymtQ_IOUowEb63c5hw,Sports Bars,Charlotte,35.229954,-80.837362,Sports One Bar & Lounge,3
+PYiCDIzavQ6XjIYaEjfLqw,Buffets,Markham,43.8206768,-79.3248349,iCook,3
+45zlHi1yyrjpQS_icSi60A,Buffets,North Las Vegas,36.197476,-115.191654,Feast Buffet,2.5
+bPh7M1vos_V-g8_s-eHaNA,Sports Bars,Las Vegas,36.1457065146,-115.188303791,Rebel Republic,4
+sSExaL8luneZit55NqQ2uA,Sports Bars,Charlotte,35.1686070885,-80.8760010079,Malone's Pourhouse,3
+mWaD0dkTSznr2PMTwbxNkg,Sports Bars,Surprise,33.6371031,-112.3351209,Runner's Sports Bar,2
+sSEeW-U4N5TxalS58zuGrA,Sports Bars,Boulder City,35.9770240784,-114.838294983,Jacks Place,4
+BCv1vW_M3Pq2poEQ6HCxEw,Vegan,York,43.6904523,-79.4738602,Irie Veggie Takeout,4.5
+Hky64JGIDwUOv_PaI1BjHA,Sports Bars,Rocky River,41.4657412595,-81.8387973681,Gormley's,4.5
+MF31okhXi1PNQLu0MFyYkQ,Sports Bars,Las Vegas,35.972567,-115.1735749,Blue Hawk Tavern,4
+zvO-PJCpNk4fgAVUnExYAA,Sports Bars,Scottsdale,33.6335183,-111.9247808,FOX Sports Grill,2.5
+22so15K1aqikL9FHt37CSQ,Vegan,Tempe,33.4211371127,-111.925079413,DP Dough,3.5
+VLDFjeqpUgWhnVuB_8GuEg,Vegan,Scottsdale,33.6242634124,-111.92449748,True Food Kitchen,4
+CwcDRtNgjgM4pLS4o63g6A,Sports Bars,Pittsburgh,40.4509603,-79.933838,Mario's East Side Saloon,3
+0iVmcOx02Gxuo4kfcTK-2w,Vegan,Scottsdale,33.497291,-111.9300012,Mandala Tea Room,3.5
+mFeonrNcF_i6KTQ2KCVgjQ,Sports Bars,Avondale,33.4673677626,-112.339346564,Rosati's Pizza and Sports Pub,3
+QbtJvTQfTFbPqBhjkI59BA,Sports Bars,Tempe,33.335595,-111.907285,Zipps Sports Grill,3
+nSQBL7E9JdN40Dcg-QiFJA,Sports Bars,Las Vegas,36.10737,-115.173177,Sports Bar - At Aria Resort & Casino,3
+_7hhpjQHxjPi0gNzzMmO6g,Buffets,Phoenix,33.3936908,-112.0732157,New Sun Star Super Buffet,2
+KQrgpqBmIsBbdAn6CnfgCA,Sports Bars,Ambridge,40.593082,-80.230831,Tick Tock Bar & Cafe,3.5
+kI4fHfmXv_cAAxnOgBso2g,Sports Bars,Edinburgh,55.9569846469,-3.1867771433,Beer & Skittles,4.5
+glVCZzuFSnf24UGYsOl2Vw,Sports Bars,Las Vegas,36.1266402147,-115.19954771,PT's,3
+98zrbyncBdGRXQngWmSjOA,Sports Bars,Scottsdale,33.5100592,-111.9255918,4th Floor Grille & Sports Bar,4
+mLaYeHwh8wm5KT-trZVL0Q,Vegan,Montréal,45.535984,-73.616161,GUSTA,4.5
+o1k4u6TCnI_IB1XUG48eCA,Buffets,Mississauga,43.610212,-79.58142,Apni Havelly Restaurant & Banquet Hall,3
+wPU0o9H3DHw5aBGVTMRlnA,Sports Bars,Toronto,43.6813701,-79.3339742,Rails & Ales Pub,3.5
+0FXAHiDs1Fkr3V_kK8b1SA,Sports Bars,Cleveland,41.4478025,-81.6873042,Cleats Club Seat Grille Old Brooklyn,3
+j9HtS2p2mJRyKiNhLP_e7w,Vegan,Toronto,43.6643947,-79.3846015,Pizzaiolo,3.5
+R2gNwPARX31w68wjhuJ0zw,Sports Bars,Charlotte,35.2128364,-80.8358184,Hickory Tavern,3.5
+XgsIf7s2zM-cC29WUD-NZQ,Buffets,Las Vegas,36.1186319921,-115.20845876,Makino Sushi & Seafood Buffet,3.5
+TWFH4a60FDzA4gy49CCtWg,Vegan,Toronto,43.679799,-79.3397466,Teatree Cafe and Eatery,4
+9OPozuJpvQ-LePnd7f2eUg,Sports Bars,Toronto,43.8069335,-79.2664583,Wild Wing,2.5
+FTRKltZ9x7Q6oj-apyrrGw,Sports Bars,Phoenix,33.5026959,-112.0645933,Roscoes On Seventh,3
+ErdKzeWj1B3YrpAH1dh_aw,Sports Bars,Scottsdale,33.4987921,-111.9246237,Firehouse,3
+l_kefVF1frmC0xRW2YkvUA,Sports Bars,Charlotte,35.2255945397,-80.8419853935,Whisky River ,2.5
+hmYnzs8-aHbltaOOGDgmbA,Sports Bars,Tempe,33.4233735877,-111.940251127,Zipps Sports Grill,2.5
+KK-_ZcYPf8lSz2-7GBWZaw,Sports Bars,Cleveland,41.5202974,-81.4867873,Fox's Sports Bar & Grille,4
+572rJsNibmJFx3vaWvbJQw,Sports Bars,Oakville,43.4396037,-79.6944255,Philthy McNasty's Sports Pub,2.5
+I-2k5ZUwdhrLbXeXWhIxng,Buffets,Chandler,33.306359,-111.88739700000001,Royal Buffet,3
+i8x1ZPvmdYGu6yH_wvgNkg,Vegan,Montréal,45.4973726,-73.5745699,Restaurant LOV,4.5
+WtLUaAAZyD6vyFXO3xLrsw,Sports Bars,Toronto,43.7908806,-79.4188945,Hell's Chicken Restaurant,3.5
+y-510QoccKhLxLL-VN_pig,Sports Bars,Avon,41.4516222,-82.0354909,Avon Brewing Company,3.5
+CVgkAFbaqMblKcZq5GIitg,Buffets,Scottsdale,33.6275671,-111.8950915,Peter Piper Pizza,3.5
+UZBh9yAggXIpHo2rc63-1Q,Sports Bars,Bolton,43.863649,-79.716201,Brooks Sports Bar & Lounge,3
+AprsB5kibAxqt77MeCPy6g,Vegan,Mississauga,43.5534272,-79.5841138,Raw Aura,4
+LrO_Xy6lfpbTgFoJcOjY4w,Buffets,Las Vegas,36.19697,-115.256147,Round Table Pizza,3.5
+L77jfFw9NZOjurG6ugYHQA,Buffets,Thornhill,43.8117313,-79.4543032,Ginger Sushi,3
+tqdL7aLotkmKIMHCczo3Ew,Sports Bars,Fairview Park,41.4614778,-81.8493304,Buffalo Wild Wings,2.5
+f2z4RM_ungk_zQwcpZcpcQ,Sports Bars,Phoenix,33.6766309035,-111.972974049,Dave & Buster's,3
+qqE76NWrW7HQ3LjlDzw9_Q,Sports Bars,Medina,41.1375656128,-81.8609085083,Jojo's Sports Bar & Grille,2.5
+o7SFqdGSl7kTYVneIsDLDA,Sports Bars,Las Vegas,36.218555,-115.255569,Magoo's-Cheyenne,3.5
+3qUM5BxoyZ6BayMmhWJAXg,Sports Bars,Charlotte,35.228985,-80.839671,Fox and Hound Smokehouse & Tavern,3
+U9hNGJFMh5vZsLMZQNellw,Buffets,Montréal,45.4856741,-73.6912598,Le Tropik Restaurant Bar,3
+s913G_9CYXcP5Fzu7kZZsw,Sports Bars,Montréal,45.5076071,-73.564444,La Cage,3
+vMH7j7Hl36b0gmdFWyZXpQ,Buffets,Pittsburgh,40.4675589448,-79.8252390686,Eat'n Park,3
+k6pWX0v60LIRS2guzkpxqQ,Buffets,Scottsdale,33.5409028387,-111.869723797,Wandering Horse Buffet,3.5
+5KsvP10z9InBcI6hhqjjKg,Buffets,Montréal,45.4944659,-73.5747893,Buffet Maharaja,2
+kPjXA9lm7nQrn6UuPb5L-Q,Buffets,Brampton,43.7705896805,-79.6600848621,Punjabi By Nature,4
+j-NE_pYsRf7UXCevLc5ugQ,Buffets,Phoenix,33.4944863,-112.1737689,China Asia Super Buffet,3
+dGCIv6rO2BaltKv4xhIgJQ,Sports Bars,Brampton,43.6524723,-79.7360659,Don Cherry's Sports Grill,2.5
+QWEoOvj9qFOuNkq6oBefUA,Buffets,Cornelius,35.4849428,-80.8588933,Village Inn Pizza Parlor,3.5
+ytAsW7DYezxMMzqoO_-nIQ,Sports Bars,Scottsdale,33.4987395,-111.9245981,Social Tap,4
+0Ryxx6uSpt4TOKYVGBekLQ,Sports Bars,Phoenix,33.5775294,-112.1179486,Black Angus Steakhouse,3
+g-nzfTvso3-4c4gkhkmGbQ,Buffets,Markham,43.8188292,-79.3492018,Frankie Tomatto's,3
+BSDKbSLFO3CP-uhfcuUCkA,Sports Bars,Las Vegas,36.1486189,-115.332454,Dave & Buster's,3
+zPQesAWNB_FuL2Be1pPPlA,Buffets,Scottsdale,33.5384247,-111.8886914,Sweet Tomatoes,3.5
+kGqNxTmtKoax_jaStzAuWA,Vegan,Las Vegas,36.1660823087,-115.153225125,Vegas Veg Fest,5
+CgCp4FAVXFnEuDavxicrfQ,Buffets,Phoenix,33.3215751,-111.9766942,Peter Piper Pizza,3.5
+IIHpQVCSUmgywdX2cFScHA,Buffets,Las Vegas,36.1264133,-115.1949565,Sushi Moto,3.5
+h2Gc7ZP0LN6VZWqIRYtCEA,Vegan,Lakewood,41.4769144417,-81.7890876699,Thai Thai,4.5
+ZMgBp4XmiEHYAuXKbe1hUw,Sports Bars,Scottsdale,33.6381664,-111.9286273,Tilted Kilt Pub & Eatery,3
+LBiHlJJve9UNszu1OHCYhQ,Sports Bars,Phoenix,33.5239444,-112.1515137,Mvp Sports Bar,3
+M56l-0DuaNhJ-SCJ1UAkgQ,Buffets,Brampton,43.6912646,-79.6952513,Bombay Palace,3.5
+8jm_9vT-tGT-rFe-XckCqA,Sports Bars,Tempe,33.3794391,-111.9403504,Final Round Sports Bar & Grill,4
+4fFF8i_YsLFivSDcqMJDdg,Buffets,Charlotte,35.3009646,-80.7537396,Fuse,3
+9RBwYraZjl11Wsw_ObxTHw,Vegan,Toronto,43.6543636272,-79.3993415354,Vital Life,4.5
+5gC3o2QHCTsowiVrIk7G9g,Sports Bars,Henderson,36.101344887,-114.930145741,Palio Bar and Sports Book,4
+pv4zBiL4VmA4L80VDjAFyA,Sports Bars,Laval,45.5690331,-73.7462205,La Cage aux Sports,2
+2GryItAj3e0uOQ5m42-wDg,Buffets,Phoenix,33.6401217,-112.1116606,Mayuri Palace,3.5
+mh05Zs-_IhwLrIZHekwEXA,Sports Bars,Chandler,33.3038469,-111.9468378,Regal Beagle,3.5
+biVQDp3K_vNP1eK5wGZOJg,Buffets,Tempe,33.349623236,-111.947303271,Kabab Palace,3.5
+0RMl1Or0qogBga5lCZMxpA,Buffets,Charlotte,35.204845,-80.721379,Green Tomato Buffet,3
+3Nx9NCzMTXC6jFgdk2mDGg,Buffets,Las Vegas,36.1241305,-115.0757425,Charlie's Market Buffet,2.5
+AFF2vsQmRT4L22AvUsit-Q,Vegan,Toronto,43.6416147519,-79.431137905,Doomie's Toronto,3.5
